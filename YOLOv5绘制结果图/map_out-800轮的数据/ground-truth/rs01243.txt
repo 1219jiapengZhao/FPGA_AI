@@ -1,0 +1,8 @@
+track-signal-front 826 0 896 92
+track-signal-front 1234 0 1291 98
+switch-unknown 885 472 961 494
+rail 624 439 1024 1079
+rail 1000 465 1844 1076
+rail 1089 463 1919 746
+rail 1175 472 1919 659
+rail 655 762 821 1078

@@ -1,0 +1,6 @@
+track-sign-front 587 437 614 465
+track-sign-front 993 463 1019 489
+track-signal-back 712 228 740 312
+rail 662 595 1871 1079
+rail 176 585 842 1079
+person 1641 499 1697 635

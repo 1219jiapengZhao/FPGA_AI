@@ -1,0 +1,6 @@
+track-sign-front 501 620 552 672
+track-sign-front 501 490 551 569
+track-sign-front 1877 476 1919 529
+track-sign-front 1874 392 1919 470
+rail 1145 414 1896 1079
+rail 694 409 1197 1078

@@ -1,0 +1,6 @@
+track-sign-front 191 599 272 675
+track-sign-front 366 660 388 692
+track-signal-front 419 660 428 675
+track-sign-front 1047 598 1120 674
+crossing 527 920 753 984
+rail 468 730 738 1077

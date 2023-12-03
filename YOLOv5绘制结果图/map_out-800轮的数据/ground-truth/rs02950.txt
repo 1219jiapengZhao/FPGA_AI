@@ -1,0 +1,9 @@
+track-signal-front 1024 482 1051 519
+track-sign-front 1032 579 1048 601
+track-signal-back 994 504 1010 528
+track-sign-front 1565 623 1636 750
+switch-right 905 659 989 730
+track-signal-front 724 491 748 540
+rail 167 572 905 1078
+rail 818 569 1086 1078
+rail 884 568 1150 1079

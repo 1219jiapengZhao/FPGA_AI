@@ -1,0 +1,7 @@
+crossing 936 479 955 485
+crossing 986 478 1009 484
+track-signal-front 607 171 672 287
+switch-static 662 681 744 710
+track-sign-front 593 304 612 346
+rail 975 454 1577 1078
+rail 552 462 959 1079

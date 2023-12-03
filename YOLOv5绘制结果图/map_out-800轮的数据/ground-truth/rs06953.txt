@@ -1,0 +1,4 @@
+track-signal-front 682 377 719 458
+track-sign-front 653 493 669 525
+rail 862 553 1594 1077
+rail 610 555 966 1079

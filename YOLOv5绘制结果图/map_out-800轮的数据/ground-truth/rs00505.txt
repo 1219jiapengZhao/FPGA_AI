@@ -1,0 +1,14 @@
+switch-unknown 746 605 839 654
+switch-right 926 557 942 572
+switch-static 756 711 800 737
+track-signal-back 835 435 857 462
+switch-static 552 702 605 727
+switch-left 474 754 616 831
+switch-static 692 642 721 655
+pole 843 462 851 683
+rail 5 754 608 1078
+rail 8 547 939 1079
+rail 752 550 926 638
+rail 917 536 1187 1079
+guard-rail 910 568 916 570
+guard-rail 942 567 944 572

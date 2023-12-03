@@ -1,0 +1,11 @@
+switch-left 946 669 1132 745
+track-signal-front 774 649 812 774
+switch-unknown 833 538 881 554
+switch-unknown 878 519 908 530
+track-signal-front 1527 767 1613 935
+switch-static 1299 779 1430 861
+rail 8 506 924 1075
+rail 835 541 1132 1076
+rail 956 496 1365 1079
+guard-rail 1015 577 1032 601
+rail 905 516 944 522

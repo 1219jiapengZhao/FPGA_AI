@@ -1,0 +1,6 @@
+switch-left 953 590 981 602
+track-sign-front 581 676 610 695
+platform 0 593 868 849
+platform 994 590 1666 907
+rail 931 579 976 598
+rail 690 574 1052 1076

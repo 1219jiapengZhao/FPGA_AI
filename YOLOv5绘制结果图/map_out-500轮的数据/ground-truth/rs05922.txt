@@ -1,0 +1,7 @@
+track-sign-front 937 600 951 613
+track-sign-front 1085 588 1096 602
+track-sign-front 1103 599 1111 608
+track-sign-front 1128 529 1155 567
+switch-indicator 1131 631 1146 662
+rail 345 604 1015 1079
+rail 997 603 1248 1079

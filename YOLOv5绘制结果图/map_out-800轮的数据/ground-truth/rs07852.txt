@@ -1,0 +1,5 @@
+crossing 695 491 833 544
+crossing 949 486 1045 533
+track-signal-back 822 272 848 308
+rail 8 352 980 1078
+rail 824 351 1182 1079

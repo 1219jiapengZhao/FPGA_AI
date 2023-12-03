@@ -1,0 +1,10 @@
+switch-right 1044 544 1073 588
+switch-unknown 1045 523 1064 537
+switch-right 491 693 794 890
+track-sign-front 1125 504 1137 520
+track-sign-front 833 503 845 517
+rail 1023 515 1064 534
+rail 1021 516 1331 1079
+rail 1 514 1030 1079
+rail 141 541 1068 1079
+guard-rail 756 708 899 839

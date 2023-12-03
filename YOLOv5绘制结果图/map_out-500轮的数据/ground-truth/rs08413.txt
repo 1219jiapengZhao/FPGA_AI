@@ -1,0 +1,10 @@
+track-signal-front 968 494 986 526
+track-signal-front 1074 493 1091 525
+track-sign-front 1052 574 1061 585
+track-sign-front 869 556 885 572
+track-sign-front 872 570 880 579
+track-sign-front 522 512 577 580
+platform 0 600 911 1079
+platform 1071 611 1919 904
+rail 989 602 1803 1078
+rail 754 584 1028 1078

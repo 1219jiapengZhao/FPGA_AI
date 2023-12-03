@@ -1,0 +1,4 @@
+track-signal-back 1167 517 1173 533
+rail 939 549 1267 1079
+guard-rail 1148 582 1160 643
+guard-rail 1124 584 1139 640

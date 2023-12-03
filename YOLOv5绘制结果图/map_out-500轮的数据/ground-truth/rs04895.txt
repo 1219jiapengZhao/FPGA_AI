@@ -1,0 +1,16 @@
+track-signal-front 406 284 460 387
+track-signal-front 710 327 753 401
+track-sign-front 402 802 431 835
+track-sign-front 687 814 713 848
+track-sign-front 804 679 823 713
+track-signal-front 1292 305 1346 437
+track-signal-front 1004 294 1053 417
+track-signal-front 346 598 364 634
+track-signal-front 59 595 72 619
+track-signal-back 118 615 124 633
+switch-static 935 848 985 879
+train-car 353 639 466 736
+rail-occluder 401 803 430 836
+rail 418 734 1919 1069
+rail 174 703 1143 1079
+rail 85 671 559 1079

@@ -1,0 +1,8 @@
+switch-left 897 679 967 708
+switch-indicator 1008 651 1016 676
+track-sign-front 820 600 835 617
+switch-unknown 726 662 780 675
+rail 7 645 818 871
+rail 7 646 849 1001
+rail 894 619 1201 1079
+rail 645 615 1015 1078

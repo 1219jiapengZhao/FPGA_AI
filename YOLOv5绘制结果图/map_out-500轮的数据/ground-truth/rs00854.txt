@@ -1,0 +1,4 @@
+switch-left 805 551 919 622
+track-sign-front 946 419 973 453
+rail 724 494 1162 1079
+rail 808 556 1425 1079

@@ -1,0 +1,8 @@
+track-sign-front 1050 556 1061 572
+track-signal-back 893 481 906 508
+track-signal-back 969 497 979 518
+rail-occluder 970 539 977 578
+rail 921 539 1195 1079
+rail 930 537 1255 1079
+guard-rail 936 646 938 699
+guard-rail 1052 649 1067 702

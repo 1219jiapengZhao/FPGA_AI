@@ -1,0 +1,16 @@
+switch-indicator 1202 605 1226 630
+switch-left 1122 619 1176 646
+crossing 1140 585 1162 591
+crossing 1061 586 1085 592
+switch-right 1035 594 1074 608
+switch-unknown 793 643 868 656
+track-signal-back 1098 454 1135 469
+track-signal-back 1100 466 1112 507
+track-signal-back 1190 444 1230 458
+switch-unknown 1141 571 1160 576
+rail 10 572 1104 844
+rail 7 643 866 936
+rail 69 572 1103 1079
+rail 1128 555 1911 1079
+rail 955 555 1267 1079
+guard-rail 1104 667 1113 693

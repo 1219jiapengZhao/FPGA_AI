@@ -1,0 +1,12 @@
+switch-right 798 638 840 670
+switch-left 842 587 859 599
+switch-static 750 638 781 653
+switch-indicator 743 598 754 643
+switch-unknown 876 579 893 586
+train-car 874 553 899 566
+rail 8 565 858 1075
+rail 842 582 891 594
+rail 136 568 862 1079
+rail 873 568 1172 1079
+guard-rail 335 759 560 849
+guard-rail 633 761 729 856

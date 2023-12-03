@@ -1,0 +1,21 @@
+# Number of detected objects per class 总的， tp fp
+
+car 149 14 135
+crossing 3234 203 3031
+fence 69 5 64
+guard-rail 7770 231 7539
+person 2746 191 2555
+person-group 140 15 125
+platform 1601 199 1402
+pole 16492 671 15821
+rail 22119 2865 19254
+rail-occluder 7407 161 7246
+switch-indicator 1665 80 1585
+switch-left 1730 109 1621
+switch-right 1795 109 1686
+switch-static 5678 152 5526
+switch-unknown 3339 37 3302
+track-sign-front 11243 437 10806
+track-signal-back 3176 184 2992
+track-signal-front 5793 330 5463
+train-car 2713 175 2538

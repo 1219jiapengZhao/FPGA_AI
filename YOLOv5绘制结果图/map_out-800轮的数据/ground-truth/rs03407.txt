@@ -1,0 +1,6 @@
+track-signal-front 665 568 672 576
+track-signal-front 692 601 700 609
+platform 0 604 783 1079
+rail 888 616 1919 1001
+rail 830 617 1747 1077
+rail 689 620 980 1076

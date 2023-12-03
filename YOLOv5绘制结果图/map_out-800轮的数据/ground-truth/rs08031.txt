@@ -1,0 +1,17 @@
+switch-unknown 874 590 903 601
+track-signal-front 973 628 982 664
+track-signal-back 395 470 431 507
+track-signal-front 862 576 866 585
+train-car 0 521 754 643
+train-car 0 539 595 654
+pole 394 507 403 637
+pole 0 97 123 808
+rail-occluder 971 628 985 667
+rail 7 566 810 706
+rail 877 590 1918 915
+rail 519 566 852 657
+rail 8 570 863 1079
+rail 723 565 1019 1079
+rail 5 591 626 678
+guard-rail 905 601 916 607
+guard-rail 871 600 873 611

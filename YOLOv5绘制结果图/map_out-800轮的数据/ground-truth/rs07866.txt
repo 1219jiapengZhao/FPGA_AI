@@ -1,0 +1,7 @@
+switch-indicator 970 600 981 628
+crossing 880 586 921 600
+switch-left 875 618 940 659
+rail 724 544 1032 1079
+rail 878 613 1476 1079
+guard-rail 824 743 846 811
+guard-rail 1036 742 1111 800

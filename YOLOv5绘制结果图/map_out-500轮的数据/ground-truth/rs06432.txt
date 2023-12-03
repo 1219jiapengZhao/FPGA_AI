@@ -1,0 +1,5 @@
+train-car 819 427 1481 980
+rail-occluder 520 749 534 854
+rail-occluder 549 696 564 834
+rail 1171 998 1652 1079
+rail 476 744 998 1079

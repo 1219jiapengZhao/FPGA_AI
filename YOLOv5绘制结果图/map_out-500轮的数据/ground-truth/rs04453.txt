@@ -1,0 +1,4 @@
+track-signal-back 1563 365 1613 435
+rail-occluder 889 342 936 439
+rail 607 397 991 1079
+rail 844 393 1751 1079

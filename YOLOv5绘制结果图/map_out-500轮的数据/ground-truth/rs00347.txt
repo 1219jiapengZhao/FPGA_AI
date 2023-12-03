@@ -1,0 +1,9 @@
+crossing 1510 471 1553 479
+crossing 1420 476 1461 482
+track-signal-front 1421 370 1435 392
+track-signal-front 1135 369 1164 416
+track-signal-back 1152 368 1180 393
+rail 1393 477 1681 1076
+rail 679 481 1448 1079
+guard-rail 1487 525 1556 675
+guard-rail 1026 623 1206 1079

@@ -1,0 +1,9 @@
+buffer-stop 1364 652 1644 933
+switch-static 683 877 913 1022
+switch-static 1134 937 1218 981
+track-signal-front 1154 364 1204 462
+track-signal-back 1162 462 1201 499
+track-sign-front 1169 509 1180 607
+rail 1450 903 1887 1079
+rail 933 912 1153 1079
+rail 915 545 1193 1079

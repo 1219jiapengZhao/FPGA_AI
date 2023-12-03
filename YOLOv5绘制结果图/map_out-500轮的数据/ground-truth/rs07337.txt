@@ -1,0 +1,9 @@
+track-signal-front 832 357 860 408
+track-sign-front 840 466 853 481
+track-sign-front 844 502 854 562
+switch-unknown 880 504 900 519
+pole 841 404 863 600
+rail 7 512 809 722
+rail 8 510 854 839
+rail 4 506 887 1078
+rail 876 499 1176 1079

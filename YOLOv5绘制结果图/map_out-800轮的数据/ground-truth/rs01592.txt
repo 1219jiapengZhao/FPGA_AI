@@ -1,0 +1,5 @@
+track-sign-front 736 720 757 748
+crossing 519 803 596 817
+track-sign-front 839 771 865 812
+rail 253 703 789 1079
+guard-rail 468 772 592 1079

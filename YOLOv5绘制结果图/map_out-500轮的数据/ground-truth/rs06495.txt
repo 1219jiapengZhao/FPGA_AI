@@ -1,0 +1,6 @@
+track-sign-front 825 669 854 697
+track-sign-front 352 665 384 697
+platform 0 754 435 863
+platform 773 754 1848 1079
+rail 4 760 570 1019
+rail 507 758 770 1079

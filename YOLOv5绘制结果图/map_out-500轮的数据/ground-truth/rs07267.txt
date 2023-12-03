@@ -1,0 +1,9 @@
+track-signal-back 704 272 754 372
+track-signal-back 713 380 752 445
+track-signal-back 341 282 390 442
+pole 290 281 401 797
+pole 711 363 744 795
+platform 397 557 840 657
+rail 3 634 446 867
+rail 0 563 853 1079
+rail 864 551 1148 1079

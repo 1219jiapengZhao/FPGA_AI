@@ -1,0 +1,8 @@
+track-sign-front 1003 569 1016 588
+track-sign-front 980 533 991 548
+switch-unknown 881 574 915 585
+switch-left 884 616 945 642
+rail-occluder 806 562 823 660
+rail 888 624 1919 1078
+rail 8 576 906 1079
+rail 866 543 1154 1079

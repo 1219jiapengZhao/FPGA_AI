@@ -1,0 +1,16 @@
+track-sign-front 1144 533 1151 541
+crossing 997 678 1098 744
+crossing 400 691 606 766
+crossing 64 701 368 779
+track-sign-front 1223 508 1239 519
+track-sign-front 374 515 393 526
+track-signal-back 389 522 415 540
+track-sign-front 619 527 632 536
+pole 529 0 584 851
+platform 1147 550 1250 596
+platform 154 563 714 651
+rail-occluder 580 608 614 681
+fence 720 565 813 688
+rail 7 556 788 829
+rail 3 571 785 1067
+rail 886 567 1198 1078

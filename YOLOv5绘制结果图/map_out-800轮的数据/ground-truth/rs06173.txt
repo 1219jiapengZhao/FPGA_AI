@@ -1,0 +1,7 @@
+track-sign-front 1067 509 1085 527
+track-signal-back 946 488 952 494
+track-signal-back 946 480 952 486
+track-sign-front 740 525 755 538
+pole 872 451 878 525
+rail 99 514 912 1076
+rail 869 513 1304 1079

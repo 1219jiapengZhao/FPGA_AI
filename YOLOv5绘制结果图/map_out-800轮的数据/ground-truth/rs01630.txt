@@ -1,0 +1,10 @@
+switch-left 977 508 1032 524
+crossing 940 457 956 463
+switch-indicator 784 542 808 615
+track-signal-back 910 421 923 439
+track-signal-back 969 433 978 441
+switch-static 939 502 960 510
+rail 952 457 1737 1079
+rail 896 457 1226 1079
+guard-rail 987 626 994 716
+guard-rail 1158 629 1258 711

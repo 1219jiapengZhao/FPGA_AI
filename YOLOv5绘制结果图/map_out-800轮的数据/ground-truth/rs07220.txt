@@ -1,0 +1,9 @@
+crossing 783 719 1081 1059
+crossing 191 694 708 992
+track-signal-front 1553 364 1619 427
+track-signal-front 1632 359 1695 427
+fence 266 847 545 1079
+platform 409 541 868 689
+platform 942 538 1279 741
+rail 8 531 902 1079
+rail 781 523 1091 1079

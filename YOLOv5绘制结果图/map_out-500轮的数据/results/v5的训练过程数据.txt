@@ -1,0 +1,1178 @@
+                                          
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = car AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = crossing AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = fence AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = guard-rail AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+46.61% = person AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.37% ; Precision=100.00%
+0.00% = person-group AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = platform AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+2.80% = pole AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+65.16% = rail AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=48.92% ; Precision=94.82%
+0.00% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = switch-left AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = switch-right AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = switch-static AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+9.06% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.16% ; Precision=100.00%
+0.00% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+15.28% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+1.24% = train-car AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.62% ; Precision=100.00%
+mAP = 7.01%
+
+
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = car AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+1.83% = crossing AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.40% ; Precision=100.00%
+0.00% = fence AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = guard-rail AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+57.34% = person AP 	||	score_threhold=0.5 : F1=0.36 ; Recall=23.25% ; Precision=77.78%
+0.00% = person-group AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+19.19% = platform AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.41% ; Precision=100.00%
+6.35% = pole AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+68.98% = rail AP 	||	score_threhold=0.5 : F1=0.69 ; Recall=53.22% ; Precision=96.84%
+0.00% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.58% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.58% ; Precision=100.00%
+0.00% = switch-left AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+0.00% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+6.04% = switch-static AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.42% ; Precision=100.00%
+0.00% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+16.62% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.06 ; Recall=3.23% ; Precision=90.91%
+0.00% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+19.85% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.16 ; Recall=9.32% ; Precision=71.43%
+32.34% = train-car AP 	||	score_threhold=0.5 : F1=0.17 ; Recall=9.32% ; Precision=93.75%
+mAP = 11.46%
+
+
+
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = car AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+8.20% = crossing AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.40% ; Precision=100.00%
+0.00% = fence AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = guard-rail AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+62.22% = person AP 	||	score_threhold=0.5 : F1=0.49 ; Recall=36.16% ; Precision=77.78%
+0.00% = person-group AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+30.69% = platform AP 	||	score_threhold=0.5 : F1=0.20 ; Recall=11.57% ; Precision=84.85%
+8.91% = pole AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.33% ; Precision=60.00%
+70.74% = rail AP 	||	score_threhold=0.5 : F1=0.71 ; Recall=55.67% ; Precision=97.53%
+2.14% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+4.70% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+0.20% = switch-left AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+0.78% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+10.38% = switch-static AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+0.00% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+20.66% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.24% ; Precision=82.26%
+0.75% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.29% ; Precision=100.00%
+22.37% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.19 ; Recall=10.77% ; Precision=73.24%
+40.03% = train-car AP 	||	score_threhold=0.5 : F1=0.34 ; Recall=21.12% ; Precision=91.89%
+mAP = 14.14%
+
+
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = car AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+16.74% = crossing AP 	||	score_threhold=0.5 : F1=0.02 ; Recall=1.19% ; Precision=100.00%
+0.00% = fence AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = guard-rail AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+62.53% = person AP 	||	score_threhold=0.5 : F1=0.52 ; Recall=38.38% ; Precision=79.39%
+0.00% = person-group AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+36.72% = platform AP 	||	score_threhold=0.5 : F1=0.32 ; Recall=19.42% ; Precision=88.68%
+10.37% = pole AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.33% ; Precision=100.00%
+71.55% = rail AP 	||	score_threhold=0.5 : F1=0.72 ; Recall=57.08% ; Precision=96.75%
+3.75% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.25% ; Precision=100.00%
+6.52% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.58% ; Precision=100.00%
+0.43% = switch-left AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+1.96% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+12.62% = switch-static AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.42% ; Precision=100.00%
+0.00% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+23.52% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.20 ; Recall=11.31% ; Precision=78.65%
+4.44% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+23.44% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.22 ; Recall=12.84% ; Precision=68.13%
+41.60% = train-car AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=24.84% ; Precision=90.91%
+mAP = 15.81%
+                                          
+Epoch:40/500
+
+
+
+
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = car AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+19.97% = crossing AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=7.51% ; Precision=86.36%
+0.00% = fence AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.08% = guard-rail AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+63.63% = person AP 	||	score_threhold=0.5 : F1=0.55 ; Recall=41.70% ; Precision=81.29%
+0.00% = person-group AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+42.27% = platform AP 	||	score_threhold=0.5 : F1=0.35 ; Recall=21.90% ; Precision=86.89%
+11.47% = pole AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+71.98% = rail AP 	||	score_threhold=0.5 : F1=0.72 ; Recall=57.44% ; Precision=97.37%
+5.53% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.25% ; Precision=100.00%
+7.81% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.58% ; Precision=100.00%
+1.17% = switch-left AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+2.01% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+13.76% = switch-static AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.42% ; Precision=100.00%
+0.10% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+24.70% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.22 ; Recall=12.92% ; Precision=78.43%
+11.50% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.29% ; Precision=100.00%
+24.31% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.21 ; Recall=12.63% ; Precision=68.54%
+42.87% = train-car AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=25.47% ; Precision=85.42%
+mAP = 17.16%
+                                          
+Epoch:50/500
+
+
+
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = car AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+21.95% = crossing AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.30% ; Precision=84.00%
+0.00% = fence AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.10% = guard-rail AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+64.29% = person AP 	||	score_threhold=0.5 : F1=0.55 ; Recall=40.96% ; Precision=81.62%
+0.00% = person-group AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+43.11% = platform AP 	||	score_threhold=0.5 : F1=0.41 ; Recall=26.86% ; Precision=89.04%
+12.72% = pole AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=71.43%
+72.58% = rail AP 	||	score_threhold=0.5 : F1=0.73 ; Recall=58.13% ; Precision=97.22%
+6.30% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.25% ; Precision=100.00%
+8.75% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.58% ; Precision=100.00%
+1.20% = switch-left AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+2.20% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+13.35% = switch-static AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.42% ; Precision=100.00%
+0.17% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+26.02% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.22 ; Recall=13.09% ; Precision=77.14%
+11.86% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.29% ; Precision=100.00%
+24.92% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.24 ; Recall=14.08% ; Precision=72.34%
+45.78% = train-car AP 	||	score_threhold=0.5 : F1=0.45 ; Recall=30.43% ; Precision=87.50%
+mAP = 17.76%
+                                          
+Epoch:60/500
+
+
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.00% = car AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+24.38% = crossing AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.30% ; Precision=87.50%
+0.00% = fence AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+0.49% = guard-rail AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+65.08% = person AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=40.22% ; Precision=82.58%
+0.00% = person-group AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+46.98% = platform AP 	||	score_threhold=0.5 : F1=0.43 ; Recall=28.10% ; Precision=89.47%
+14.58% = pole AP 	||	score_threhold=0.5 : F1=0.02 ; Recall=1.09% ; Precision=71.43%
+73.64% = rail AP 	||	score_threhold=0.5 : F1=0.73 ; Recall=58.82% ; Precision=97.49%
+7.14% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.25% ; Precision=100.00%
+10.26% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.58% ; Precision=100.00%
+3.01% = switch-left AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+2.93% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+13.13% = switch-static AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.42% ; Precision=100.00%
+0.12% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+27.28% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.23 ; Recall=13.25% ; Precision=78.10%
+13.82% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.29% ; Precision=100.00%
+26.08% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.25 ; Recall=15.11% ; Precision=71.57%
+46.46% = train-car AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=33.54% ; Precision=85.71%
+mAP = 18.77%
+                                          
+Epoch:70/500
+
+
+
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+18.75% = car AP 	||	score_threhold=0.5 : F1=0.12 ; Recall=6.25% ; Precision=100.00%
+26.96% = crossing AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.30% ; Precision=95.45%
+0.00% = fence AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+1.28% = guard-rail AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+65.57% = person AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=39.85% ; Precision=83.72%
+0.00% = person-group AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+48.79% = platform AP 	||	score_threhold=0.5 : F1=0.44 ; Recall=29.34% ; Precision=89.87%
+16.71% = pole AP 	||	score_threhold=0.5 : F1=0.02 ; Recall=1.20% ; Precision=73.33%
+73.35% = rail AP 	||	score_threhold=0.5 : F1=0.73 ; Recall=58.82% ; Precision=97.60%
+8.04% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.25% ; Precision=100.00%
+11.31% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.58% ; Precision=100.00%
+3.33% = switch-left AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+3.62% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+13.54% = switch-static AP 	||	score_threhold=0.5 : F1=0.02 ; Recall=1.27% ; Precision=100.00%
+0.12% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+29.28% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.23 ; Recall=13.73% ; Precision=80.19%
+17.21% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.05 ; Recall=2.34% ; Precision=100.00%
+27.14% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.26 ; Recall=15.94% ; Precision=74.76%
+47.81% = train-car AP 	||	score_threhold=0.5 : F1=0.51 ; Recall=35.40% ; Precision=89.06%
+mAP = 20.64%
+                                          
+Epoch:80/500
+
+
+
+
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+26.04% = car AP 	||	score_threhold=0.5 : F1=0.12 ; Recall=6.25% ; Precision=100.00%
+28.83% = crossing AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.30% ; Precision=95.45%
+0.00% = fence AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+2.28% = guard-rail AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+66.73% = person AP 	||	score_threhold=0.5 : F1=0.52 ; Recall=37.27% ; Precision=87.83%
+0.00% = person-group AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+50.06% = platform AP 	||	score_threhold=0.5 : F1=0.45 ; Recall=29.75% ; Precision=91.14%
+19.18% = pole AP 	||	score_threhold=0.5 : F1=0.02 ; Recall=1.20% ; Precision=73.33%
+73.45% = rail AP 	||	score_threhold=0.5 : F1=0.74 ; Recall=59.28% ; Precision=97.74%
+8.57% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=100.00%
+11.95% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.58% ; Precision=50.00%
+4.16% = switch-left AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+6.25% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+15.48% = switch-static AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.69% ; Precision=100.00%
+0.00% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+30.51% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.24 ; Recall=14.38% ; Precision=81.65%
+19.22% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.07 ; Recall=3.80% ; Precision=100.00%
+27.83% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.27 ; Recall=16.56% ; Precision=79.21%
+50.77% = train-car AP 	||	score_threhold=0.5 : F1=0.51 ; Recall=36.02% ; Precision=89.23%
+mAP = 22.06%
+                                          
+Epoch:90/500
+
+
+
+
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+42.79% = car AP 	||	score_threhold=0.5 : F1=0.12 ; Recall=6.25% ; Precision=100.00%
+28.68% = crossing AP 	||	score_threhold=0.5 : F1=0.18 ; Recall=9.88% ; Precision=96.15%
+0.00% = fence AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+4.76% = guard-rail AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.22% ; Precision=100.00%
+66.86% = person AP 	||	score_threhold=0.5 : F1=0.49 ; Recall=34.32% ; Precision=88.57%
+0.00% = person-group AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+49.61% = platform AP 	||	score_threhold=0.5 : F1=0.45 ; Recall=30.17% ; Precision=92.41%
+21.10% = pole AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.31% ; Precision=80.00%
+73.90% = rail AP 	||	score_threhold=0.5 : F1=0.74 ; Recall=59.32% ; Precision=98.09%
+9.24% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.02 ; Recall=1.00% ; Precision=80.00%
+12.64% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+6.33% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+7.83% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+15.09% = switch-static AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.69% ; Precision=100.00%
+0.04% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+31.55% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.25 ; Recall=14.70% ; Precision=84.26%
+22.07% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.10 ; Recall=5.26% ; Precision=100.00%
+29.54% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.27 ; Recall=16.15% ; Precision=80.41%
+51.53% = train-car AP 	||	score_threhold=0.5 : F1=0.50 ; Recall=34.16% ; Precision=90.16%
+mAP = 23.68%
+                                          
+Epoch:100/500
+
+
+
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+43.88% = car AP 	||	score_threhold=0.5 : F1=0.12 ; Recall=6.25% ; Precision=100.00%
+30.70% = crossing AP 	||	score_threhold=0.5 : F1=0.20 ; Recall=11.07% ; Precision=96.55%
+0.00% = fence AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+7.24% = guard-rail AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.22% ; Precision=100.00%
+65.68% = person AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=32.47% ; Precision=88.89%
+0.00% = person-group AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+51.82% = platform AP 	||	score_threhold=0.5 : F1=0.44 ; Recall=28.93% ; Precision=94.59%
+22.49% = pole AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.31% ; Precision=70.59%
+74.20% = rail AP 	||	score_threhold=0.5 : F1=0.74 ; Recall=59.57% ; Precision=98.39%
+9.88% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.02 ; Recall=1.25% ; Precision=83.33%
+14.00% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+7.87% = switch-left AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+8.59% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+16.13% = switch-static AP 	||	score_threhold=0.5 : F1=0.02 ; Recall=1.27% ; Precision=100.00%
+0.05% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+32.85% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.25 ; Recall=14.70% ; Precision=85.85%
+24.73% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=7.31% ; Precision=96.15%
+29.84% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.28 ; Recall=16.98% ; Precision=82.83%
+53.77% = train-car AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=32.92% ; Precision=89.83%
+mAP = 24.69%
+                                          
+Epoch:110/500
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+40.79% = car AP 	||	score_threhold=0.5 : F1=0.12 ; Recall=6.25% ; Precision=100.00%
+33.20% = crossing AP 	||	score_threhold=0.5 : F1=0.21 ; Recall=11.86% ; Precision=96.77%
+0.00% = fence AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+8.27% = guard-rail AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.22% ; Precision=100.00%
+64.37% = person AP 	||	score_threhold=0.5 : F1=0.44 ; Recall=29.15% ; Precision=87.78%
+0.00% = person-group AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+51.42% = platform AP 	||	score_threhold=0.5 : F1=0.46 ; Recall=30.58% ; Precision=94.87%
+23.19% = pole AP 	||	score_threhold=0.5 : F1=0.02 ; Recall=0.98% ; Precision=69.23%
+74.08% = rail AP 	||	score_threhold=0.5 : F1=0.74 ; Recall=59.75% ; Precision=98.57%
+9.65% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.50% ; Precision=85.71%
+14.03% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+8.68% = switch-left AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+8.71% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+16.00% = switch-static AP 	||	score_threhold=0.5 : F1=0.02 ; Recall=0.84% ; Precision=100.00%
+0.07% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+33.10% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.26 ; Recall=15.19% ; Precision=87.04%
+25.81% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.17 ; Recall=9.36% ; Precision=94.12%
+30.27% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.27 ; Recall=16.36% ; Precision=81.44%
+53.66% = train-car AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=32.92% ; Precision=89.83%
+mAP = 24.77%
+                                          
+Epoch:120/500
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+44.87% = car AP 	||	score_threhold=0.5 : F1=0.12 ; Recall=6.25% ; Precision=100.00%
+35.40% = crossing AP 	||	score_threhold=0.5 : F1=0.22 ; Recall=12.25% ; Precision=96.88%
+0.00% = fence AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+9.06% = guard-rail AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.22% ; Precision=100.00%
+64.71% = person AP 	||	score_threhold=0.5 : F1=0.44 ; Recall=29.15% ; Precision=88.76%
+0.00% = person-group AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+52.75% = platform AP 	||	score_threhold=0.5 : F1=0.46 ; Recall=30.17% ; Precision=94.81%
+24.87% = pole AP 	||	score_threhold=0.5 : F1=0.02 ; Recall=1.09% ; Precision=71.43%
+74.17% = rail AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=60.19% ; Precision=98.46%
+9.61% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.50% ; Precision=85.71%
+15.66% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+10.41% = switch-left AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+9.01% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+16.53% = switch-static AP 	||	score_threhold=0.5 : F1=0.02 ; Recall=1.27% ; Precision=75.00%
+0.11% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+33.57% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.26 ; Recall=15.35% ; Precision=87.16%
+26.07% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.19 ; Recall=10.82% ; Precision=92.50%
+30.78% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.27 ; Recall=16.15% ; Precision=79.59%
+53.17% = train-car AP 	||	score_threhold=0.5 : F1=0.47 ; Recall=32.30% ; Precision=89.66%
+mAP = 25.54%
+                                          
+Epoch:130/500
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+43.26% = car AP 	||	score_threhold=0.5 : F1=0.12 ; Recall=6.25% ; Precision=100.00%
+36.49% = crossing AP 	||	score_threhold=0.5 : F1=0.22 ; Recall=12.65% ; Precision=96.97%
+0.00% = fence AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+10.60% = guard-rail AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.44% ; Precision=100.00%
+64.70% = person AP 	||	score_threhold=0.5 : F1=0.43 ; Recall=28.41% ; Precision=90.59%
+0.00% = person-group AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+53.13% = platform AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=32.23% ; Precision=95.12%
+25.79% = pole AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.31% ; Precision=75.00%
+74.09% = rail AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=60.40% ; Precision=98.47%
+9.53% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.50% ; Precision=85.71%
+15.63% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+10.59% = switch-left AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+9.47% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+16.92% = switch-static AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.69% ; Precision=100.00%
+0.31% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+34.05% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.27 ; Recall=16.32% ; Precision=87.07%
+26.67% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.21 ; Recall=11.99% ; Precision=89.13%
+30.19% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.27 ; Recall=16.36% ; Precision=80.61%
+53.28% = train-car AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=32.92% ; Precision=89.83%
+mAP = 25.74%
+                                          
+Epoch:140/500
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+44.03% = car AP 	||	score_threhold=0.5 : F1=0.29 ; Recall=18.75% ; Precision=60.00%
+38.05% = crossing AP 	||	score_threhold=0.5 : F1=0.24 ; Recall=13.83% ; Precision=94.59%
+0.00% = fence AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+12.37% = guard-rail AP 	||	score_threhold=0.5 : F1=0.02 ; Recall=1.10% ; Precision=100.00%
+64.52% = person AP 	||	score_threhold=0.5 : F1=0.43 ; Recall=28.04% ; Precision=90.48%
+0.00% = person-group AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+53.99% = platform AP 	||	score_threhold=0.5 : F1=0.49 ; Recall=33.06% ; Precision=95.24%
+26.34% = pole AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.31% ; Precision=75.00%
+74.31% = rail AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=60.77% ; Precision=98.65%
+10.63% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.75% ; Precision=87.50%
+14.55% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.58% ; Precision=33.33%
+11.92% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+10.25% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+17.48% = switch-static AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.69% ; Precision=80.00%
+0.33% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+34.67% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.29 ; Recall=17.12% ; Precision=87.60%
+28.06% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.23 ; Recall=13.45% ; Precision=90.20%
+30.63% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.28 ; Recall=16.98% ; Precision=81.19%
+52.78% = train-car AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=32.92% ; Precision=91.38%
+mAP = 26.25%
+                                          
+Epoch:150/500
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+44.27% = car AP 	||	score_threhold=0.5 : F1=0.29 ; Recall=18.75% ; Precision=60.00%
+39.44% = crossing AP 	||	score_threhold=0.5 : F1=0.27 ; Recall=15.81% ; Precision=90.91%
+0.00% = fence AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+14.13% = guard-rail AP 	||	score_threhold=0.5 : F1=0.05 ; Recall=2.63% ; Precision=92.31%
+65.06% = person AP 	||	score_threhold=0.5 : F1=0.43 ; Recall=28.41% ; Precision=90.59%
+0.00% = person-group AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+55.68% = platform AP 	||	score_threhold=0.5 : F1=0.50 ; Recall=33.88% ; Precision=94.25%
+27.34% = pole AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.63% ; Precision=78.95%
+74.53% = rail AP 	||	score_threhold=0.5 : F1=0.75 ; Recall=61.05% ; Precision=98.43%
+10.85% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.75% ; Precision=70.00%
+15.47% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.02 ; Recall=1.17% ; Precision=50.00%
+12.47% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+11.29% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+17.86% = switch-static AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.69% ; Precision=66.67%
+0.37% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+34.76% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.29 ; Recall=17.45% ; Precision=85.71%
+27.90% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.25 ; Recall=14.33% ; Precision=87.50%
+30.70% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.29 ; Recall=17.81% ; Precision=80.37%
+54.30% = train-car AP 	||	score_threhold=0.5 : F1=0.49 ; Recall=33.54% ; Precision=88.52%
+mAP = 26.82%
+                                          
+Epoch:160/500
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+43.19% = car AP 	||	score_threhold=0.5 : F1=0.29 ; Recall=18.75% ; Precision=60.00%
+41.59% = crossing AP 	||	score_threhold=0.5 : F1=0.31 ; Recall=18.97% ; Precision=90.57%
+0.00% = fence AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+15.94% = guard-rail AP 	||	score_threhold=0.5 : F1=0.08 ; Recall=3.95% ; Precision=94.74%
+65.05% = person AP 	||	score_threhold=0.5 : F1=0.44 ; Recall=29.15% ; Precision=90.80%
+16.52% = person-group AP 	||	score_threhold=0.5 : F1=0.08 ; Recall=4.35% ; Precision=100.00%
+56.68% = platform AP 	||	score_threhold=0.5 : F1=0.52 ; Recall=35.95% ; Precision=93.55%
+27.55% = pole AP 	||	score_threhold=0.5 : F1=0.04 ; Recall=2.29% ; Precision=84.00%
+74.53% = rail AP 	||	score_threhold=0.5 : F1=0.76 ; Recall=61.24% ; Precision=98.49%
+10.92% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.75% ; Precision=58.33%
+15.97% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.75% ; Precision=60.00%
+13.14% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+11.76% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+19.79% = switch-static AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.69% ; Precision=66.67%
+0.60% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+34.90% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.30 ; Recall=18.42% ; Precision=83.21%
+28.58% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.25 ; Recall=14.62% ; Precision=84.75%
+30.66% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.29 ; Recall=18.01% ; Precision=80.56%
+54.41% = train-car AP 	||	score_threhold=0.5 : F1=0.50 ; Recall=34.78% ; Precision=88.89%
+mAP = 28.09%
+                                          
+Epoch:170/500
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+43.93% = car AP 	||	score_threhold=0.5 : F1=0.36 ; Recall=25.00% ; Precision=66.67%
+42.69% = crossing AP 	||	score_threhold=0.5 : F1=0.34 ; Recall=21.34% ; Precision=87.10%
+0.00% = fence AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+17.40% = guard-rail AP 	||	score_threhold=0.5 : F1=0.10 ; Recall=5.04% ; Precision=95.83%
+65.64% = person AP 	||	score_threhold=0.5 : F1=0.44 ; Recall=29.15% ; Precision=88.76%
+17.39% = person-group AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+57.61% = platform AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=38.43% ; Precision=93.00%
+27.62% = pole AP 	||	score_threhold=0.5 : F1=0.06 ; Recall=2.94% ; Precision=87.10%
+74.56% = rail AP 	||	score_threhold=0.5 : F1=0.76 ; Recall=61.81% ; Precision=98.33%
+12.05% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.04 ; Recall=2.00% ; Precision=61.54%
+15.49% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.75% ; Precision=60.00%
+15.71% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+11.34% = switch-right AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.53% ; Precision=100.00%
+20.91% = switch-static AP 	||	score_threhold=0.5 : F1=0.04 ; Recall=2.11% ; Precision=71.43%
+0.68% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+35.80% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.31 ; Recall=18.90% ; Precision=82.39%
+29.48% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.26 ; Recall=15.20% ; Precision=83.87%
+31.70% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.31 ; Recall=19.25% ; Precision=80.17%
+54.37% = train-car AP 	||	score_threhold=0.5 : F1=0.52 ; Recall=36.02% ; Precision=90.62%
+mAP = 28.72%
+                                          
+Epoch:180/500
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+45.45% = car AP 	||	score_threhold=0.5 : F1=0.50 ; Recall=37.50% ; Precision=75.00%
+44.04% = crossing AP 	||	score_threhold=0.5 : F1=0.37 ; Recall=23.32% ; Precision=85.51%
+1.33% = fence AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+18.15% = guard-rail AP 	||	score_threhold=0.5 : F1=0.11 ; Recall=5.92% ; Precision=96.43%
+64.48% = person AP 	||	score_threhold=0.5 : F1=0.47 ; Recall=32.47% ; Precision=86.27%
+28.99% = person-group AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+58.02% = platform AP 	||	score_threhold=0.5 : F1=0.56 ; Recall=40.08% ; Precision=91.51%
+28.75% = pole AP 	||	score_threhold=0.5 : F1=0.08 ; Recall=3.92% ; Precision=92.31%
+74.91% = rail AP 	||	score_threhold=0.5 : F1=0.76 ; Recall=62.36% ; Precision=98.12%
+11.97% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.04 ; Recall=2.24% ; Precision=64.29%
+15.50% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.06 ; Recall=2.92% ; Precision=62.50%
+15.99% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+10.81% = switch-right AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.53% ; Precision=100.00%
+21.61% = switch-static AP 	||	score_threhold=0.5 : F1=0.06 ; Recall=3.38% ; Precision=72.73%
+0.78% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+36.00% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.31 ; Recall=19.39% ; Precision=82.19%
+31.30% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.27 ; Recall=16.37% ; Precision=83.58%
+31.87% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.32 ; Recall=20.29% ; Precision=79.67%
+54.29% = train-car AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=37.89% ; Precision=91.04%
+mAP = 29.71%
+                                          
+Epoch:190/500
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+43.40% = car AP 	||	score_threhold=0.5 : F1=0.50 ; Recall=37.50% ; Precision=75.00%
+44.64% = crossing AP 	||	score_threhold=0.5 : F1=0.40 ; Recall=26.09% ; Precision=85.71%
+1.33% = fence AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+19.44% = guard-rail AP 	||	score_threhold=0.5 : F1=0.13 ; Recall=7.02% ; Precision=96.97%
+65.10% = person AP 	||	score_threhold=0.5 : F1=0.49 ; Recall=35.06% ; Precision=84.07%
+30.82% = person-group AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+58.96% = platform AP 	||	score_threhold=0.5 : F1=0.60 ; Recall=44.21% ; Precision=93.86%
+30.13% = pole AP 	||	score_threhold=0.5 : F1=0.09 ; Recall=5.01% ; Precision=90.20%
+75.23% = rail AP 	||	score_threhold=0.5 : F1=0.76 ; Recall=62.68% ; Precision=97.97%
+11.69% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.06 ; Recall=2.99% ; Precision=63.16%
+15.84% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.06 ; Recall=2.92% ; Precision=62.50%
+15.17% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+11.27% = switch-right AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.53% ; Precision=100.00%
+22.32% = switch-static AP 	||	score_threhold=0.5 : F1=0.09 ; Recall=4.64% ; Precision=73.33%
+1.27% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+36.04% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.32 ; Recall=19.87% ; Precision=82.00%
+30.34% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.29 ; Recall=17.25% ; Precision=84.29%
+32.53% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.34 ; Recall=21.74% ; Precision=79.55%
+54.54% = train-car AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=37.89% ; Precision=91.04%
+mAP = 30.00%
+                                          
+Epoch:200/500
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+46.02% = car AP 	||	score_threhold=0.5 : F1=0.67 ; Recall=56.25% ; Precision=81.82%
+44.94% = crossing AP 	||	score_threhold=0.5 : F1=0.41 ; Recall=26.88% ; Precision=85.00%
+2.00% = fence AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+21.07% = guard-rail AP 	||	score_threhold=0.5 : F1=0.16 ; Recall=8.77% ; Precision=88.89%
+64.23% = person AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=39.48% ; Precision=83.59%
+35.74% = person-group AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+60.56% = platform AP 	||	score_threhold=0.5 : F1=0.62 ; Recall=46.28% ; Precision=93.33%
+31.59% = pole AP 	||	score_threhold=0.5 : F1=0.13 ; Recall=6.97% ; Precision=90.14%
+75.55% = rail AP 	||	score_threhold=0.5 : F1=0.77 ; Recall=63.11% ; Precision=97.38%
+12.21% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.07 ; Recall=3.49% ; Precision=58.33%
+14.62% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.07 ; Recall=3.51% ; Precision=60.00%
+16.80% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+11.39% = switch-right AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.53% ; Precision=100.00%
+22.43% = switch-static AP 	||	score_threhold=0.5 : F1=0.09 ; Recall=4.64% ; Precision=68.75%
+1.28% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+36.60% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.34 ; Recall=21.16% ; Precision=82.39%
+30.39% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.29 ; Recall=17.84% ; Precision=82.43%
+33.21% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.35 ; Recall=22.36% ; Precision=80.00%
+54.87% = train-car AP 	||	score_threhold=0.5 : F1=0.55 ; Recall=39.13% ; Precision=91.30%
+mAP = 30.77%
+                                          
+Epoch:210/500
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+46.02% = car AP 	||	score_threhold=0.5 : F1=0.67 ; Recall=56.25% ; Precision=81.82%
+47.54% = crossing AP 	||	score_threhold=0.5 : F1=0.45 ; Recall=30.04% ; Precision=86.36%
+3.00% = fence AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+21.93% = guard-rail AP 	||	score_threhold=0.5 : F1=0.19 ; Recall=10.96% ; Precision=83.33%
+65.18% = person AP 	||	score_threhold=0.5 : F1=0.55 ; Recall=40.22% ; Precision=84.50%
+34.18% = person-group AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+61.19% = platform AP 	||	score_threhold=0.5 : F1=0.64 ; Recall=48.76% ; Precision=92.19%
+32.23% = pole AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.06% ; Precision=88.10%
+75.89% = rail AP 	||	score_threhold=0.5 : F1=0.77 ; Recall=63.26% ; Precision=97.33%
+12.53% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.07 ; Recall=3.49% ; Precision=58.33%
+14.32% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.08 ; Recall=4.09% ; Precision=63.64%
+15.32% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+11.75% = switch-right AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.53% ; Precision=100.00%
+23.44% = switch-static AP 	||	score_threhold=0.5 : F1=0.10 ; Recall=5.49% ; Precision=72.22%
+1.46% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+36.43% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.34 ; Recall=21.65% ; Precision=81.21%
+31.03% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.30 ; Recall=18.71% ; Precision=79.01%
+33.96% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.36 ; Recall=22.98% ; Precision=78.17%
+56.47% = train-car AP 	||	score_threhold=0.5 : F1=0.55 ; Recall=39.75% ; Precision=91.43%
+mAP = 31.19%
+                                          
+Epoch:220/500
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+46.50% = car AP 	||	score_threhold=0.5 : F1=0.67 ; Recall=56.25% ; Precision=81.82%
+47.71% = crossing AP 	||	score_threhold=0.5 : F1=0.45 ; Recall=30.04% ; Precision=86.36%
+5.88% = fence AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+21.71% = guard-rail AP 	||	score_threhold=0.5 : F1=0.22 ; Recall=12.94% ; Precision=80.82%
+65.68% = person AP 	||	score_threhold=0.5 : F1=0.56 ; Recall=42.07% ; Precision=83.82%
+31.63% = person-group AP 	||	score_threhold=0.5 : F1=0.08 ; Recall=4.35% ; Precision=50.00%
+62.62% = platform AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=50.41% ; Precision=93.13%
+32.82% = pole AP 	||	score_threhold=0.5 : F1=0.17 ; Recall=9.59% ; Precision=87.13%
+75.78% = rail AP 	||	score_threhold=0.5 : F1=0.77 ; Recall=63.55% ; Precision=97.08%
+12.44% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.07 ; Recall=3.99% ; Precision=61.54%
+15.76% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.12 ; Recall=6.43% ; Precision=68.75%
+16.03% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+12.11% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+23.19% = switch-static AP 	||	score_threhold=0.5 : F1=0.11 ; Recall=5.91% ; Precision=70.00%
+1.61% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+36.47% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.35 ; Recall=22.29% ; Precision=82.63%
+32.05% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.33 ; Recall=20.76% ; Precision=80.68%
+34.30% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.37 ; Recall=23.81% ; Precision=79.31%
+56.20% = train-car AP 	||	score_threhold=0.5 : F1=0.56 ; Recall=40.99% ; Precision=90.41%
+mAP = 31.52%
+                                          
+Epoch:230/500
+0.00% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.00% ; Recall=0.00% ; Precision=0.00%
+39.13% = car AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=50.00% ; Precision=72.73%
+48.72% = crossing AP 	||	score_threhold=0.5 : F1=0.47 ; Recall=32.02% ; Precision=86.17%
+4.74% = fence AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+22.02% = guard-rail AP 	||	score_threhold=0.5 : F1=0.25 ; Recall=14.91% ; Precision=80.00%
+64.60% = person AP 	||	score_threhold=0.5 : F1=0.56 ; Recall=42.80% ; Precision=82.86%
+31.99% = person-group AP 	||	score_threhold=0.5 : F1=0.08 ; Recall=4.35% ; Precision=50.00%
+63.31% = platform AP 	||	score_threhold=0.5 : F1=0.66 ; Recall=51.24% ; Precision=92.54%
+33.38% = pole AP 	||	score_threhold=0.5 : F1=0.19 ; Recall=10.89% ; Precision=89.29%
+76.18% = rail AP 	||	score_threhold=0.5 : F1=0.77 ; Recall=64.05% ; Precision=96.94%
+12.98% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.08 ; Recall=4.49% ; Precision=66.67%
+13.94% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.10 ; Recall=5.26% ; Precision=56.25%
+15.33% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+12.87% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+23.67% = switch-static AP 	||	score_threhold=0.5 : F1=0.13 ; Recall=7.17% ; Precision=73.91%
+1.66% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+36.81% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.35 ; Recall=22.78% ; Precision=80.11%
+32.07% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.34 ; Recall=21.93% ; Precision=80.65%
+34.36% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.37 ; Recall=24.02% ; Precision=77.85%
+55.75% = train-car AP 	||	score_threhold=0.5 : F1=0.57 ; Recall=41.61% ; Precision=89.33%
+mAP = 31.18%
+                                          
+Epoch:240/500
+3.03% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.06 ; Recall=3.03% ; Precision=100.00%
+39.82% = car AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=43.75% ; Precision=70.00%
+48.82% = crossing AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=33.20% ; Precision=86.60%
+8.97% = fence AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+23.66% = guard-rail AP 	||	score_threhold=0.5 : F1=0.28 ; Recall=17.32% ; Precision=79.00%
+63.31% = person AP 	||	score_threhold=0.5 : F1=0.57 ; Recall=43.17% ; Precision=82.39%
+31.10% = person-group AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.70% ; Precision=50.00%
+63.99% = platform AP 	||	score_threhold=0.5 : F1=0.66 ; Recall=51.65% ; Precision=90.58%
+34.36% = pole AP 	||	score_threhold=0.5 : F1=0.21 ; Recall=12.20% ; Precision=89.60%
+76.30% = rail AP 	||	score_threhold=0.5 : F1=0.77 ; Recall=64.63% ; Precision=96.70%
+13.10% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.09 ; Recall=4.74% ; Precision=65.52%
+15.28% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.13 ; Recall=7.02% ; Precision=63.16%
+16.51% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+12.89% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+24.18% = switch-static AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.44% ; Precision=74.07%
+1.53% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+37.18% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.36 ; Recall=23.42% ; Precision=79.67%
+32.51% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.35 ; Recall=22.51% ; Precision=79.38%
+35.73% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.47% ; Precision=78.85%
+56.34% = train-car AP 	||	score_threhold=0.5 : F1=0.57 ; Recall=41.61% ; Precision=89.33%
+mAP = 31.93%
+                                          
+Epoch:250/500
+3.03% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.06 ; Recall=3.03% ; Precision=100.00%
+39.68% = car AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=43.75% ; Precision=70.00%
+48.45% = crossing AP 	||	score_threhold=0.5 : F1=0.49 ; Recall=33.99% ; Precision=86.87%
+7.39% = fence AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+24.66% = guard-rail AP 	||	score_threhold=0.5 : F1=0.29 ; Recall=17.76% ; Precision=76.42%
+62.88% = person AP 	||	score_threhold=0.5 : F1=0.58 ; Recall=45.02% ; Precision=81.33%
+34.59% = person-group AP 	||	score_threhold=0.5 : F1=0.21 ; Recall=13.04% ; Precision=60.00%
+63.57% = platform AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=51.65% ; Precision=89.29%
+34.78% = pole AP 	||	score_threhold=0.5 : F1=0.22 ; Recall=12.85% ; Precision=88.06%
+76.09% = rail AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=64.81% ; Precision=96.50%
+13.11% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.09 ; Recall=4.99% ; Precision=64.52%
+15.86% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.13 ; Recall=7.02% ; Precision=63.16%
+14.54% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+12.96% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+23.17% = switch-static AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=8.02% ; Precision=67.86%
+1.63% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+36.75% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.37 ; Recall=24.23% ; Precision=79.37%
+32.56% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.36 ; Recall=23.10% ; Precision=79.00%
+36.42% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.40 ; Recall=26.92% ; Precision=80.25%
+55.87% = train-car AP 	||	score_threhold=0.5 : F1=0.58 ; Recall=42.86% ; Precision=89.61%
+mAP = 31.90%
+                                          
+Epoch:260/500
+
+6.06% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.06 ; Recall=3.03% ; Precision=100.00%
+39.68% = car AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=50.00% ; Precision=72.73%
+48.50% = crossing AP 	||	score_threhold=0.5 : F1=0.51 ; Recall=36.36% ; Precision=86.79%
+8.00% = fence AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+25.64% = guard-rail AP 	||	score_threhold=0.5 : F1=0.30 ; Recall=18.64% ; Precision=78.70%
+61.20% = person AP 	||	score_threhold=0.5 : F1=0.57 ; Recall=44.28% ; Precision=78.95%
+31.02% = person-group AP 	||	score_threhold=0.5 : F1=0.28 ; Recall=17.39% ; Precision=66.67%
+63.97% = platform AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=52.07% ; Precision=88.11%
+34.65% = pole AP 	||	score_threhold=0.5 : F1=0.24 ; Recall=14.05% ; Precision=87.16%
+76.33% = rail AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=65.35% ; Precision=96.27%
+13.21% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.10 ; Recall=5.24% ; Precision=63.64%
+15.90% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=7.60% ; Precision=68.42%
+16.29% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+12.17% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+23.92% = switch-static AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=7.59% ; Precision=64.29%
+2.35% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+36.67% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.37 ; Recall=24.56% ; Precision=77.55%
+32.58% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.36 ; Recall=23.10% ; Precision=79.00%
+35.84% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.40 ; Recall=26.50% ; Precision=79.01%
+55.80% = train-car AP 	||	score_threhold=0.5 : F1=0.58 ; Recall=42.86% ; Precision=89.61%
+mAP = 31.99%
+                                          
+Epoch:270/500
+
+6.06% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.06 ; Recall=3.03% ; Precision=100.00%
+39.82% = car AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=43.75% ; Precision=70.00%
+47.72% = crossing AP 	||	score_threhold=0.5 : F1=0.51 ; Recall=36.36% ; Precision=85.19%
+9.91% = fence AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+25.50% = guard-rail AP 	||	score_threhold=0.5 : F1=0.31 ; Recall=19.30% ; Precision=75.21%
+60.92% = person AP 	||	score_threhold=0.5 : F1=0.57 ; Recall=45.02% ; Precision=79.22%
+25.07% = person-group AP 	||	score_threhold=0.5 : F1=0.26 ; Recall=17.39% ; Precision=50.00%
+64.24% = platform AP 	||	score_threhold=0.5 : F1=0.66 ; Recall=52.48% ; Precision=87.59%
+34.58% = pole AP 	||	score_threhold=0.5 : F1=0.25 ; Recall=14.92% ; Precision=86.16%
+76.68% = rail AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=65.61% ; Precision=96.34%
+12.99% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.11 ; Recall=6.23% ; Precision=69.44%
+15.82% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.19% ; Precision=70.00%
+17.18% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+11.94% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+22.29% = switch-static AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.44% ; Precision=64.52%
+2.01% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+36.47% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.53% ; Precision=77.07%
+32.93% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.37 ; Recall=24.27% ; Precision=79.81%
+36.54% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.40 ; Recall=26.92% ; Precision=79.27%
+55.24% = train-car AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=43.48% ; Precision=89.74%
+mAP = 31.70%
+                                          
+Epoch:280/500
+                                          
+9.09% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.06 ; Recall=3.03% ; Precision=100.00%
+38.95% = car AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=43.75% ; Precision=70.00%
+48.02% = crossing AP 	||	score_threhold=0.5 : F1=0.51 ; Recall=37.15% ; Precision=83.19%
+13.66% = fence AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+26.05% = guard-rail AP 	||	score_threhold=0.5 : F1=0.32 ; Recall=20.18% ; Precision=76.03%
+60.85% = person AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=46.49% ; Precision=80.77%
+23.40% = person-group AP 	||	score_threhold=0.5 : F1=0.32 ; Recall=21.74% ; Precision=62.50%
+63.86% = platform AP 	||	score_threhold=0.5 : F1=0.64 ; Recall=51.65% ; Precision=85.62%
+34.08% = pole AP 	||	score_threhold=0.5 : F1=0.26 ; Recall=15.58% ; Precision=84.62%
+76.59% = rail AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=65.68% ; Precision=95.99%
+12.87% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.11 ; Recall=6.23% ; Precision=67.57%
+15.98% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.16 ; Recall=8.77% ; Precision=75.00%
+17.87% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+11.40% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+22.08% = switch-static AP 	||	score_threhold=0.5 : F1=0.16 ; Recall=9.28% ; Precision=64.71%
+1.95% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+36.15% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=26.17% ; Precision=75.70%
+32.76% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.44% ; Precision=79.09%
+35.43% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.40 ; Recall=27.12% ; Precision=78.92%
+56.19% = train-car AP 	||	score_threhold=0.5 : F1=0.60 ; Recall=44.72% ; Precision=91.14%
+mAP = 31.86%
+                                          
+Epoch:290/500
+9.09% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.06 ; Recall=3.03% ; Precision=100.00%
+38.68% = car AP 	||	score_threhold=0.5 : F1=0.52 ; Recall=43.75% ; Precision=63.64%
+47.81% = crossing AP 	||	score_threhold=0.5 : F1=0.51 ; Recall=37.55% ; Precision=81.90%
+12.55% = fence AP 	||	score_threhold=0.5 : F1=0.07 ; Recall=4.00% ; Precision=20.00%
+25.72% = guard-rail AP 	||	score_threhold=0.5 : F1=0.33 ; Recall=20.83% ; Precision=74.80%
+60.03% = person AP 	||	score_threhold=0.5 : F1=0.60 ; Recall=48.34% ; Precision=78.92%
+24.88% = person-group AP 	||	score_threhold=0.5 : F1=0.32 ; Recall=21.74% ; Precision=62.50%
+62.73% = platform AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=52.07% ; Precision=85.71%
+33.38% = pole AP 	||	score_threhold=0.5 : F1=0.27 ; Recall=15.80% ; Precision=83.33%
+76.45% = rail AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=66.08% ; Precision=95.76%
+13.05% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.13 ; Recall=7.23% ; Precision=74.36%
+15.87% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.16 ; Recall=8.77% ; Precision=68.18%
+17.44% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+12.56% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+22.69% = switch-static AP 	||	score_threhold=0.5 : F1=0.18 ; Recall=10.13% ; Precision=66.67%
+1.95% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+36.51% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.53% ; Precision=74.18%
+33.05% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.15% ; Precision=80.37%
+35.78% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.41 ; Recall=27.74% ; Precision=79.29%
+57.23% = train-car AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=44.10% ; Precision=91.03%
+mAP = 31.87%
+                                          
+Epoch:300/500
+9.09% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.06 ; Recall=3.03% ; Precision=100.00%
+40.36% = car AP 	||	score_threhold=0.5 : F1=0.52 ; Recall=43.75% ; Precision=63.64%
+48.00% = crossing AP 	||	score_threhold=0.5 : F1=0.51 ; Recall=37.55% ; Precision=80.51%
+12.76% = fence AP 	||	score_threhold=0.5 : F1=0.13 ; Recall=8.00% ; Precision=33.33%
+26.14% = guard-rail AP 	||	score_threhold=0.5 : F1=0.32 ; Recall=20.83% ; Precision=73.08%
+59.79% = person AP 	||	score_threhold=0.5 : F1=0.60 ; Recall=48.34% ; Precision=77.51%
+25.98% = person-group AP 	||	score_threhold=0.5 : F1=0.31 ; Recall=21.74% ; Precision=55.56%
+63.35% = platform AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=52.48% ; Precision=84.67%
+33.97% = pole AP 	||	score_threhold=0.5 : F1=0.28 ; Recall=16.67% ; Precision=82.26%
+76.25% = rail AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=66.08% ; Precision=95.56%
+13.50% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.13 ; Recall=6.98% ; Precision=77.78%
+15.98% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.16 ; Recall=9.36% ; Precision=69.57%
+17.51% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+12.47% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+21.30% = switch-static AP 	||	score_threhold=0.5 : F1=0.18 ; Recall=10.55% ; Precision=65.79%
+2.54% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+36.38% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=26.01% ; Precision=74.54%
+32.84% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=24.85% ; Precision=79.44%
+36.32% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.42 ; Recall=28.36% ; Precision=79.65%
+58.08% = train-car AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=43.48% ; Precision=90.91%
+mAP = 32.13%
+                                          
+Epoch:310/500
+9.09% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.06 ; Recall=3.03% ; Precision=100.00%
+38.95% = car AP 	||	score_threhold=0.5 : F1=0.52 ; Recall=43.75% ; Precision=63.64%
+48.10% = crossing AP 	||	score_threhold=0.5 : F1=0.53 ; Recall=39.13% ; Precision=81.15%
+13.05% = fence AP 	||	score_threhold=0.5 : F1=0.13 ; Recall=8.00% ; Precision=33.33%
+26.04% = guard-rail AP 	||	score_threhold=0.5 : F1=0.32 ; Recall=20.83% ; Precision=71.97%
+60.51% = person AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=47.60% ; Precision=78.18%
+25.04% = person-group AP 	||	score_threhold=0.5 : F1=0.30 ; Recall=21.74% ; Precision=50.00%
+64.07% = platform AP 	||	score_threhold=0.5 : F1=0.64 ; Recall=52.48% ; Precision=82.47%
+34.33% = pole AP 	||	score_threhold=0.5 : F1=0.28 ; Recall=16.78% ; Precision=83.70%
+76.22% = rail AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=66.29% ; Precision=95.42%
+13.63% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.13 ; Recall=6.98% ; Precision=77.78%
+16.25% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.16 ; Recall=8.77% ; Precision=68.18%
+15.76% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+12.49% = switch-right AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.53% ; Precision=100.00%
+22.67% = switch-static AP 	||	score_threhold=0.5 : F1=0.20 ; Recall=11.39% ; Precision=69.23%
+2.85% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=100.00%
+36.41% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=26.01% ; Precision=75.23%
+33.49% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.15% ; Precision=77.48%
+36.47% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.42 ; Recall=28.36% ; Precision=81.07%
+58.00% = train-car AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=43.48% ; Precision=89.74%
+mAP = 32.17%
+                                          
+Epoch:320/500
+9.09% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.06 ; Recall=3.03% ; Precision=100.00%
+44.59% = car AP 	||	score_threhold=0.5 : F1=0.50 ; Recall=43.75% ; Precision=58.33%
+46.81% = crossing AP 	||	score_threhold=0.5 : F1=0.53 ; Recall=39.53% ; Precision=80.65%
+13.30% = fence AP 	||	score_threhold=0.5 : F1=0.12 ; Recall=8.00% ; Precision=28.57%
+25.88% = guard-rail AP 	||	score_threhold=0.5 : F1=0.33 ; Recall=21.05% ; Precision=71.64%
+60.72% = person AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=47.23% ; Precision=78.53%
+21.20% = person-group AP 	||	score_threhold=0.5 : F1=0.31 ; Recall=21.74% ; Precision=55.56%
+63.55% = platform AP 	||	score_threhold=0.5 : F1=0.64 ; Recall=52.48% ; Precision=81.94%
+34.63% = pole AP 	||	score_threhold=0.5 : F1=0.28 ; Recall=17.10% ; Precision=83.07%
+76.07% = rail AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=66.29% ; Precision=95.52%
+13.49% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.13 ; Recall=7.23% ; Precision=74.36%
+16.65% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=8.19% ; Precision=60.87%
+15.86% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+12.80% = switch-right AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.53% ; Precision=100.00%
+21.99% = switch-static AP 	||	score_threhold=0.5 : F1=0.19 ; Recall=11.39% ; Precision=67.50%
+2.61% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=100.00%
+36.68% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=26.01% ; Precision=74.19%
+32.38% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.44% ; Precision=75.65%
+36.17% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.42 ; Recall=28.57% ; Precision=79.31%
+58.60% = train-car AP 	||	score_threhold=0.5 : F1=0.58 ; Recall=43.48% ; Precision=87.50%
+mAP = 32.15%
+                                          
+Epoch:330/500
+9.09% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.06 ; Recall=3.03% ; Precision=100.00%
+45.88% = car AP 	||	score_threhold=0.5 : F1=0.50 ; Recall=43.75% ; Precision=58.33%
+47.77% = crossing AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=39.92% ; Precision=82.11%
+10.05% = fence AP 	||	score_threhold=0.5 : F1=0.12 ; Recall=8.00% ; Precision=28.57%
+26.04% = guard-rail AP 	||	score_threhold=0.5 : F1=0.33 ; Recall=21.27% ; Precision=71.85%
+60.85% = person AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=47.23% ; Precision=77.58%
+23.87% = person-group AP 	||	score_threhold=0.5 : F1=0.32 ; Recall=21.74% ; Precision=62.50%
+64.16% = platform AP 	||	score_threhold=0.5 : F1=0.64 ; Recall=52.89% ; Precision=82.58%
+35.33% = pole AP 	||	score_threhold=0.5 : F1=0.28 ; Recall=17.10% ; Precision=82.63%
+76.07% = rail AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=66.26% ; Precision=95.42%
+13.45% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.13 ; Recall=7.23% ; Precision=65.91%
+16.56% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.13 ; Recall=7.60% ; Precision=59.09%
+16.26% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+12.75% = switch-right AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.53% ; Precision=100.00%
+22.17% = switch-static AP 	||	score_threhold=0.5 : F1=0.21 ; Recall=12.24% ; Precision=67.44%
+2.98% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=100.00%
+36.34% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.85% ; Precision=73.73%
+32.41% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=25.73% ; Precision=76.52%
+35.49% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.42 ; Recall=28.78% ; Precision=78.53%
+59.71% = train-car AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=44.10% ; Precision=87.65%
+mAP = 32.36%
+                                          
+Epoch:340/500
+9.09% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.06 ; Recall=3.03% ; Precision=100.00%
+45.25% = car AP 	||	score_threhold=0.5 : F1=0.50 ; Recall=43.75% ; Precision=58.33%
+47.92% = crossing AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=39.92% ; Precision=81.45%
+10.05% = fence AP 	||	score_threhold=0.5 : F1=0.12 ; Recall=8.00% ; Precision=28.57%
+26.33% = guard-rail AP 	||	score_threhold=0.5 : F1=0.33 ; Recall=21.49% ; Precision=72.06%
+60.45% = person AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=47.23% ; Precision=78.05%
+23.08% = person-group AP 	||	score_threhold=0.5 : F1=0.31 ; Recall=21.74% ; Precision=55.56%
+64.51% = platform AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=53.72% ; Precision=82.80%
+35.44% = pole AP 	||	score_threhold=0.5 : F1=0.29 ; Recall=17.43% ; Precision=82.90%
+76.00% = rail AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=66.33% ; Precision=95.38%
+13.13% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=7.73% ; Precision=65.96%
+16.31% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=7.60% ; Precision=61.90%
+14.43% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+12.76% = switch-right AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.53% ; Precision=100.00%
+21.03% = switch-static AP 	||	score_threhold=0.5 : F1=0.21 ; Recall=12.66% ; Precision=66.67%
+3.24% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=100.00%
+36.59% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.85% ; Precision=73.06%
+32.24% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.40 ; Recall=26.90% ; Precision=77.31%
+35.31% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.42 ; Recall=28.78% ; Precision=78.98%
+58.23% = train-car AP 	||	score_threhold=0.5 : F1=0.56 ; Recall=41.61% ; Precision=87.01%
+mAP = 32.07%
+                                          
+Epoch:350/500
+9.09% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.06 ; Recall=3.03% ; Precision=100.00%
+45.33% = car AP 	||	score_threhold=0.5 : F1=0.50 ; Recall=43.75% ; Precision=58.33%
+48.80% = crossing AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=40.71% ; Precision=81.10%
+13.04% = fence AP 	||	score_threhold=0.5 : F1=0.18 ; Recall=12.00% ; Precision=33.33%
+26.18% = guard-rail AP 	||	score_threhold=0.5 : F1=0.34 ; Recall=21.93% ; Precision=72.99%
+59.80% = person AP 	||	score_threhold=0.5 : F1=0.58 ; Recall=47.23% ; Precision=76.65%
+23.35% = person-group AP 	||	score_threhold=0.5 : F1=0.30 ; Recall=21.74% ; Precision=50.00%
+64.65% = platform AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=54.55% ; Precision=81.48%
+35.29% = pole AP 	||	score_threhold=0.5 : F1=0.30 ; Recall=18.08% ; Precision=81.77%
+75.83% = rail AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=66.51% ; Precision=95.69%
+13.53% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=7.98% ; Precision=66.67%
+14.74% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.13 ; Recall=7.60% ; Precision=56.52%
+14.71% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+13.67% = switch-right AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.53% ; Precision=100.00%
+21.89% = switch-static AP 	||	score_threhold=0.5 : F1=0.21 ; Recall=12.24% ; Precision=64.44%
+3.28% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=100.00%
+36.23% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.53% ; Precision=73.83%
+32.73% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=26.32% ; Precision=76.27%
+36.25% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.43 ; Recall=29.19% ; Precision=80.11%
+58.35% = train-car AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=44.72% ; Precision=87.80%
+mAP = 32.34%
+                                          
+Epoch:360/500
+12.12% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.11 ; Recall=6.06% ; Precision=100.00%
+45.46% = car AP 	||	score_threhold=0.5 : F1=0.52 ; Recall=43.75% ; Precision=63.64%
+49.15% = crossing AP 	||	score_threhold=0.5 : F1=0.55 ; Recall=41.50% ; Precision=82.03%
+12.90% = fence AP 	||	score_threhold=0.5 : F1=0.23 ; Recall=16.00% ; Precision=40.00%
+26.95% = guard-rail AP 	||	score_threhold=0.5 : F1=0.33 ; Recall=21.49% ; Precision=72.06%
+59.62% = person AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=47.60% ; Precision=76.79%
+20.76% = person-group AP 	||	score_threhold=0.5 : F1=0.30 ; Recall=21.74% ; Precision=50.00%
+63.63% = platform AP 	||	score_threhold=0.5 : F1=0.66 ; Recall=55.79% ; Precision=81.33%
+34.70% = pole AP 	||	score_threhold=0.5 : F1=0.29 ; Recall=17.97% ; Precision=80.88%
+75.47% = rail AP 	||	score_threhold=0.5 : F1=0.78 ; Recall=66.62% ; Precision=95.45%
+12.99% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=7.73% ; Precision=65.96%
+17.40% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.77% ; Precision=62.50%
+14.24% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+14.47% = switch-right AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.53% ; Precision=100.00%
+20.84% = switch-static AP 	||	score_threhold=0.5 : F1=0.19 ; Recall=11.39% ; Precision=64.29%
+3.51% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=100.00%
+36.44% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=26.17% ; Precision=73.97%
+33.01% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.44% ; Precision=76.32%
+35.74% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.41 ; Recall=27.74% ; Precision=78.36%
+56.04% = train-car AP 	||	score_threhold=0.5 : F1=0.60 ; Recall=45.34% ; Precision=86.90%
+mAP = 32.27%
+                                          
+Epoch:370/500
+12.12% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.11 ; Recall=6.06% ; Precision=100.00%
+45.90% = car AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=43.75% ; Precision=70.00%
+48.84% = crossing AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=40.71% ; Precision=79.84%
+15.41% = fence AP 	||	score_threhold=0.5 : F1=0.28 ; Recall=20.00% ; Precision=45.45%
+27.01% = guard-rail AP 	||	score_threhold=0.5 : F1=0.34 ; Recall=21.93% ; Precision=73.53%
+60.06% = person AP 	||	score_threhold=0.5 : F1=0.58 ; Recall=46.86% ; Precision=76.05%
+19.33% = person-group AP 	||	score_threhold=0.5 : F1=0.35 ; Recall=26.09% ; Precision=54.55%
+61.95% = platform AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=54.96% ; Precision=78.70%
+34.48% = pole AP 	||	score_threhold=0.5 : F1=0.30 ; Recall=18.52% ; Precision=79.81%
+75.40% = rail AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=66.87% ; Precision=95.22%
+13.05% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.12 ; Recall=6.98% ; Precision=59.57%
+17.54% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.77% ; Precision=62.50%
+13.71% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+15.23% = switch-right AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.53% ; Precision=100.00%
+21.24% = switch-static AP 	||	score_threhold=0.5 : F1=0.20 ; Recall=12.24% ; Precision=63.04%
+3.67% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=100.00%
+35.77% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=26.33% ; Precision=71.81%
+32.81% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=25.73% ; Precision=77.88%
+34.79% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.41 ; Recall=27.54% ; Precision=77.78%
+56.08% = train-car AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=45.34% ; Precision=85.88%
+mAP = 32.22%
+                                          
+Epoch:380/500
+12.12% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.22 ; Recall=12.12% ; Precision=100.00%
+45.31% = car AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=43.75% ; Precision=70.00%
+48.86% = crossing AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=40.71% ; Precision=80.47%
+15.41% = fence AP 	||	score_threhold=0.5 : F1=0.32 ; Recall=24.00% ; Precision=50.00%
+27.00% = guard-rail AP 	||	score_threhold=0.5 : F1=0.34 ; Recall=21.93% ; Precision=73.53%
+59.28% = person AP 	||	score_threhold=0.5 : F1=0.57 ; Recall=46.86% ; Precision=72.99%
+19.73% = person-group AP 	||	score_threhold=0.5 : F1=0.30 ; Recall=21.74% ; Precision=50.00%
+61.67% = platform AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=55.37% ; Precision=78.82%
+34.19% = pole AP 	||	score_threhold=0.5 : F1=0.30 ; Recall=18.52% ; Precision=78.34%
+75.57% = rail AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=67.16% ; Precision=95.04%
+13.28% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.13 ; Recall=7.23% ; Precision=59.18%
+15.87% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=8.19% ; Precision=58.33%
+13.00% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+14.36% = switch-right AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.53% ; Precision=100.00%
+21.69% = switch-static AP 	||	score_threhold=0.5 : F1=0.20 ; Recall=11.81% ; Precision=57.14%
+4.10% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=100.00%
+35.73% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.85% ; Precision=71.75%
+32.14% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=26.02% ; Precision=76.07%
+34.46% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.40 ; Recall=26.92% ; Precision=77.38%
+55.23% = train-car AP 	||	score_threhold=0.5 : F1=0.60 ; Recall=45.96% ; Precision=85.06%
+mAP = 31.95%
+                                          
+Epoch:390/500
+12.12% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.22 ; Recall=12.12% ; Precision=100.00%
+43.54% = car AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=43.75% ; Precision=70.00%
+48.82% = crossing AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=40.32% ; Precision=79.69%
+15.60% = fence AP 	||	score_threhold=0.5 : F1=0.28 ; Recall=20.00% ; Precision=45.45%
+26.81% = guard-rail AP 	||	score_threhold=0.5 : F1=0.34 ; Recall=21.71% ; Precision=74.44%
+59.12% = person AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=49.08% ; Precision=74.72%
+17.71% = person-group AP 	||	score_threhold=0.5 : F1=0.30 ; Recall=21.74% ; Precision=50.00%
+61.84% = platform AP 	||	score_threhold=0.5 : F1=0.66 ; Recall=55.79% ; Precision=79.41%
+34.15% = pole AP 	||	score_threhold=0.5 : F1=0.30 ; Recall=18.85% ; Precision=77.93%
+75.31% = rail AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=67.20% ; Precision=94.95%
+13.45% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=7.73% ; Precision=60.78%
+16.25% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=8.19% ; Precision=56.00%
+12.42% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+14.93% = switch-right AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.53% ; Precision=100.00%
+21.30% = switch-static AP 	||	score_threhold=0.5 : F1=0.20 ; Recall=11.81% ; Precision=58.33%
+4.09% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=100.00%
+35.81% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.37 ; Recall=25.36% ; Precision=70.72%
+31.35% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.37 ; Recall=25.15% ; Precision=73.50%
+33.86% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.40 ; Recall=26.92% ; Precision=77.38%
+54.73% = train-car AP 	||	score_threhold=0.5 : F1=0.60 ; Recall=45.96% ; Precision=86.05%
+mAP = 31.66%
+                                          
+Epoch:400/500
+12.12% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.22 ; Recall=12.12% ; Precision=100.00%
+41.98% = car AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=43.75% ; Precision=70.00%
+48.35% = crossing AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=40.71% ; Precision=81.10%
+13.74% = fence AP 	||	score_threhold=0.5 : F1=0.28 ; Recall=20.00% ; Precision=45.45%
+27.59% = guard-rail AP 	||	score_threhold=0.5 : F1=0.35 ; Recall=22.59% ; Precision=74.64%
+58.80% = person AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=49.08% ; Precision=73.89%
+20.24% = person-group AP 	||	score_threhold=0.5 : F1=0.30 ; Recall=21.74% ; Precision=50.00%
+61.29% = platform AP 	||	score_threhold=0.5 : F1=0.66 ; Recall=55.79% ; Precision=79.88%
+33.85% = pole AP 	||	score_threhold=0.5 : F1=0.31 ; Recall=18.95% ; Precision=78.38%
+75.42% = rail AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=67.49% ; Precision=95.06%
+12.96% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=7.98% ; Precision=61.54%
+16.25% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=8.19% ; Precision=53.85%
+13.51% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+14.40% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+20.63% = switch-static AP 	||	score_threhold=0.5 : F1=0.20 ; Recall=11.81% ; Precision=58.33%
+4.04% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=100.00%
+35.94% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.37 ; Recall=25.36% ; Precision=70.40%
+30.72% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.37 ; Recall=25.15% ; Precision=72.27%
+33.74% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.40 ; Recall=26.92% ; Precision=76.02%
+53.14% = train-car AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=45.96% ; Precision=84.09%
+mAP = 31.44%
+                                          
+Epoch:410/500
+12.12% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.22 ; Recall=12.12% ; Precision=100.00%
+41.98% = car AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=37.50% ; Precision=66.67%
+47.71% = crossing AP 	||	score_threhold=0.5 : F1=0.55 ; Recall=41.50% ; Precision=80.77%
+14.62% = fence AP 	||	score_threhold=0.5 : F1=0.27 ; Recall=20.00% ; Precision=41.67%
+27.97% = guard-rail AP 	||	score_threhold=0.5 : F1=0.35 ; Recall=22.59% ; Precision=74.64%
+58.46% = person AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=49.08% ; Precision=73.48%
+21.39% = person-group AP 	||	score_threhold=0.5 : F1=0.35 ; Recall=26.09% ; Precision=54.55%
+61.46% = platform AP 	||	score_threhold=0.5 : F1=0.66 ; Recall=56.61% ; Precision=79.65%
+34.43% = pole AP 	||	score_threhold=0.5 : F1=0.31 ; Recall=19.17% ; Precision=78.22%
+75.46% = rail AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=67.63% ; Precision=95.03%
+12.67% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.48% ; Precision=64.15%
+16.61% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.16 ; Recall=9.36% ; Precision=59.26%
+13.11% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+13.31% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+20.23% = switch-static AP 	||	score_threhold=0.5 : F1=0.20 ; Recall=11.81% ; Precision=59.57%
+3.81% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=100.00%
+35.87% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=26.01% ; Precision=71.88%
+30.67% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.44% ; Precision=73.11%
+33.85% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=26.71% ; Precision=75.00%
+53.47% = train-car AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=45.96% ; Precision=84.09%
+mAP = 31.46%
+                                          
+Epoch:420/500
+14.29% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.17 ; Recall=9.09% ; Precision=100.00%
+42.76% = car AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=43.75% ; Precision=70.00%
+47.78% = crossing AP 	||	score_threhold=0.5 : F1=0.55 ; Recall=41.50% ; Precision=80.77%
+13.61% = fence AP 	||	score_threhold=0.5 : F1=0.26 ; Recall=20.00% ; Precision=38.46%
+27.17% = guard-rail AP 	||	score_threhold=0.5 : F1=0.35 ; Recall=22.81% ; Precision=74.82%
+57.89% = person AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=49.45% ; Precision=73.22%
+20.86% = person-group AP 	||	score_threhold=0.5 : F1=0.35 ; Recall=26.09% ; Precision=54.55%
+60.99% = platform AP 	||	score_threhold=0.5 : F1=0.66 ; Recall=56.20% ; Precision=80.00%
+34.84% = pole AP 	||	score_threhold=0.5 : F1=0.32 ; Recall=19.72% ; Precision=78.70%
+75.37% = rail AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=67.88% ; Precision=94.80%
+12.49% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.23% ; Precision=64.71%
+16.44% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.16 ; Recall=9.36% ; Precision=57.14%
+13.29% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+11.88% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+20.18% = switch-static AP 	||	score_threhold=0.5 : F1=0.20 ; Recall=11.81% ; Precision=60.87%
+3.25% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=100.00%
+35.94% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=26.01% ; Precision=72.52%
+30.37% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.44% ; Precision=73.11%
+33.89% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=26.71% ; Precision=73.71%
+52.79% = train-car AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=45.96% ; Precision=84.09%
+mAP = 31.30%
+                                          
+Epoch:430/500
+14.29% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.17 ; Recall=9.09% ; Precision=100.00%
+43.78% = car AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=37.50% ; Precision=66.67%
+47.59% = crossing AP 	||	score_threhold=0.5 : F1=0.55 ; Recall=41.50% ; Precision=80.15%
+13.29% = fence AP 	||	score_threhold=0.5 : F1=0.26 ; Recall=20.00% ; Precision=38.46%
+27.39% = guard-rail AP 	||	score_threhold=0.5 : F1=0.36 ; Recall=23.46% ; Precision=74.83%
+57.46% = person AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=49.45% ; Precision=72.43%
+21.85% = person-group AP 	||	score_threhold=0.5 : F1=0.34 ; Recall=26.09% ; Precision=50.00%
+60.07% = platform AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=55.37% ; Precision=78.36%
+35.03% = pole AP 	||	score_threhold=0.5 : F1=0.32 ; Recall=20.15% ; Precision=78.39%
+75.10% = rail AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=67.77% ; Precision=94.60%
+12.58% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.48% ; Precision=60.71%
+16.36% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.16 ; Recall=9.36% ; Precision=59.26%
+11.79% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=100.00%
+12.88% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+20.06% = switch-static AP 	||	score_threhold=0.5 : F1=0.22 ; Recall=13.08% ; Precision=62.00%
+3.40% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=100.00%
+36.04% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=26.49% ; Precision=71.62%
+30.60% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.73% ; Precision=73.33%
+34.24% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=26.71% ; Precision=73.30%
+52.90% = train-car AP 	||	score_threhold=0.5 : F1=0.58 ; Recall=44.72% ; Precision=82.76%
+mAP = 31.33%
+                                          
+Epoch:440/500
+14.29% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.17 ; Recall=9.09% ; Precision=100.00%
+42.53% = car AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=37.50% ; Precision=66.67%
+46.73% = crossing AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=41.11% ; Precision=79.39%
+15.11% = fence AP 	||	score_threhold=0.5 : F1=0.26 ; Recall=20.00% ; Precision=38.46%
+27.19% = guard-rail AP 	||	score_threhold=0.5 : F1=0.36 ; Recall=23.68% ; Precision=75.00%
+57.09% = person AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=49.82% ; Precision=71.81%
+19.20% = person-group AP 	||	score_threhold=0.5 : F1=0.35 ; Recall=26.09% ; Precision=54.55%
+59.90% = platform AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=55.37% ; Precision=78.36%
+34.97% = pole AP 	||	score_threhold=0.5 : F1=0.32 ; Recall=20.04% ; Precision=77.97%
+75.15% = rail AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=67.74% ; Precision=94.79%
+12.50% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.48% ; Precision=60.71%
+16.15% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.77% ; Precision=55.56%
+10.14% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=50.00%
+13.43% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+19.10% = switch-static AP 	||	score_threhold=0.5 : F1=0.22 ; Recall=13.50% ; Precision=60.38%
+3.61% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=100.00%
+35.99% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.85% ; Precision=70.18%
+30.14% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.73% ; Precision=72.13%
+34.05% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.40 ; Recall=27.12% ; Precision=73.60%
+53.21% = train-car AP 	||	score_threhold=0.5 : F1=0.57 ; Recall=44.10% ; Precision=82.56%
+mAP = 31.02%
+                                          
+Epoch:450/500
+14.29% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.17 ; Recall=9.09% ; Precision=100.00%
+43.83% = car AP 	||	score_threhold=0.5 : F1=0.48 ; Recall=37.50% ; Precision=66.67%
+46.02% = crossing AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=41.50% ; Precision=78.36%
+15.03% = fence AP 	||	score_threhold=0.5 : F1=0.26 ; Recall=20.00% ; Precision=38.46%
+27.09% = guard-rail AP 	||	score_threhold=0.5 : F1=0.36 ; Recall=23.46% ; Precision=75.35%
+56.76% = person AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=49.82% ; Precision=72.19%
+19.15% = person-group AP 	||	score_threhold=0.5 : F1=0.34 ; Recall=26.09% ; Precision=50.00%
+60.12% = platform AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=55.37% ; Precision=78.36%
+35.01% = pole AP 	||	score_threhold=0.5 : F1=0.32 ; Recall=19.93% ; Precision=77.54%
+74.78% = rail AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=67.77% ; Precision=94.70%
+12.52% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.48% ; Precision=58.62%
+15.93% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.77% ; Precision=51.72%
+11.75% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=50.00%
+13.36% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+18.59% = switch-static AP 	||	score_threhold=0.5 : F1=0.21 ; Recall=13.08% ; Precision=59.62%
+3.46% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=50.00%
+35.52% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.85% ; Precision=70.18%
+30.21% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.37 ; Recall=25.15% ; Precision=71.67%
+33.91% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.40 ; Recall=27.12% ; Precision=73.18%
+52.75% = train-car AP 	||	score_threhold=0.5 : F1=0.57 ; Recall=44.10% ; Precision=82.56%
+mAP = 31.00%
+                                          
+Epoch:460/500
+14.29% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.17 ; Recall=9.09% ; Precision=100.00%
+44.10% = car AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=43.75% ; Precision=70.00%
+46.18% = crossing AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=41.50% ; Precision=77.78%
+15.39% = fence AP 	||	score_threhold=0.5 : F1=0.26 ; Recall=20.00% ; Precision=38.46%
+27.13% = guard-rail AP 	||	score_threhold=0.5 : F1=0.36 ; Recall=23.25% ; Precision=75.18%
+55.64% = person AP 	||	score_threhold=0.5 : F1=0.58 ; Recall=49.45% ; Precision=71.28%
+19.49% = person-group AP 	||	score_threhold=0.5 : F1=0.34 ; Recall=26.09% ; Precision=50.00%
+59.91% = platform AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=54.96% ; Precision=78.24%
+35.07% = pole AP 	||	score_threhold=0.5 : F1=0.32 ; Recall=20.37% ; Precision=79.24%
+74.86% = rail AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=67.77% ; Precision=94.60%
+12.42% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.48% ; Precision=57.63%
+16.53% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.77% ; Precision=51.72%
+11.13% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=50.00%
+13.47% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+17.43% = switch-static AP 	||	score_threhold=0.5 : F1=0.21 ; Recall=13.08% ; Precision=59.62%
+3.56% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=50.00%
+35.21% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.37 ; Recall=25.53% ; Precision=70.54%
+30.12% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.44% ; Precision=71.90%
+34.10% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.40 ; Recall=27.33% ; Precision=73.33%
+52.89% = train-car AP 	||	score_threhold=0.5 : F1=0.58 ; Recall=44.72% ; Precision=83.72%
+mAP = 30.94%
+                                          
+Epoch:470/500
+14.29% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.17 ; Recall=9.09% ; Precision=100.00%
+42.77% = car AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=43.75% ; Precision=70.00%
+46.51% = crossing AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=41.50% ; Precision=78.36%
+13.33% = fence AP 	||	score_threhold=0.5 : F1=0.26 ; Recall=20.00% ; Precision=38.46%
+26.52% = guard-rail AP 	||	score_threhold=0.5 : F1=0.35 ; Recall=22.81% ; Precision=73.24%
+56.02% = person AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=49.82% ; Precision=71.05%
+18.08% = person-group AP 	||	score_threhold=0.5 : F1=0.34 ; Recall=26.09% ; Precision=50.00%
+59.32% = platform AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=54.96% ; Precision=78.70%
+34.90% = pole AP 	||	score_threhold=0.5 : F1=0.32 ; Recall=20.48% ; Precision=78.66%
+74.91% = rail AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=67.81% ; Precision=94.51%
+12.54% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=8.23% ; Precision=55.00%
+16.62% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.15 ; Recall=8.77% ; Precision=51.72%
+10.78% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=50.00%
+13.24% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+17.62% = switch-static AP 	||	score_threhold=0.5 : F1=0.21 ; Recall=13.08% ; Precision=58.49%
+3.56% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=50.00%
+35.33% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.37 ; Recall=25.53% ; Precision=70.54%
+30.12% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.73% ; Precision=72.13%
+34.15% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.40 ; Recall=27.33% ; Precision=72.93%
+52.79% = train-car AP 	||	score_threhold=0.5 : F1=0.58 ; Recall=44.72% ; Precision=83.72%
+mAP = 30.67%
+                                          
+Epoch:480/500
+14.65% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.17 ; Recall=9.09% ; Precision=100.00%
+43.04% = car AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=43.75% ; Precision=70.00%
+46.46% = crossing AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=41.50% ; Precision=77.78%
+12.11% = fence AP 	||	score_threhold=0.5 : F1=0.26 ; Recall=20.00% ; Precision=38.46%
+26.70% = guard-rail AP 	||	score_threhold=0.5 : F1=0.35 ; Recall=22.81% ; Precision=73.24%
+55.83% = person AP 	||	score_threhold=0.5 : F1=0.58 ; Recall=49.82% ; Precision=70.31%
+16.37% = person-group AP 	||	score_threhold=0.5 : F1=0.34 ; Recall=26.09% ; Precision=50.00%
+59.51% = platform AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=54.96% ; Precision=80.61%
+34.99% = pole AP 	||	score_threhold=0.5 : F1=0.33 ; Recall=20.59% ; Precision=78.75%
+74.80% = rail AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=67.70% ; Precision=94.36%
+12.40% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=8.23% ; Precision=54.10%
+17.00% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.16 ; Recall=9.36% ; Precision=53.33%
+12.45% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=50.00%
+12.97% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+17.23% = switch-static AP 	||	score_threhold=0.5 : F1=0.21 ; Recall=13.08% ; Precision=59.62%
+3.23% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=100.00%
+35.10% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.37 ; Recall=25.36% ; Precision=69.78%
+30.18% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.44% ; Precision=71.90%
+34.37% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.40 ; Recall=27.54% ; Precision=73.48%
+52.79% = train-car AP 	||	score_threhold=0.5 : F1=0.58 ; Recall=44.72% ; Precision=83.72%
+mAP = 30.61%
+                                          
+Epoch:490/50014.65% = buffer-stop AP 	||	score_threhold=0.5 : F1=0.17 ; Recall=9.09% ; Precision=100.00%
+42.45% = car AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=43.75% ; Precision=70.00%
+46.56% = crossing AP 	||	score_threhold=0.5 : F1=0.54 ; Recall=41.50% ; Precision=77.78%
+11.89% = fence AP 	||	score_threhold=0.5 : F1=0.26 ; Recall=20.00% ; Precision=38.46%
+26.64% = guard-rail AP 	||	score_threhold=0.5 : F1=0.35 ; Recall=22.81% ; Precision=72.73%
+55.80% = person AP 	||	score_threhold=0.5 : F1=0.58 ; Recall=49.82% ; Precision=70.68%
+16.48% = person-group AP 	||	score_threhold=0.5 : F1=0.34 ; Recall=26.09% ; Precision=50.00%
+58.93% = platform AP 	||	score_threhold=0.5 : F1=0.65 ; Recall=54.55% ; Precision=80.98%
+34.71% = pole AP 	||	score_threhold=0.5 : F1=0.32 ; Recall=20.48% ; Precision=78.01%
+74.80% = rail AP 	||	score_threhold=0.5 : F1=0.79 ; Recall=67.88% ; Precision=94.52%
+12.14% = rail-occluder AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=8.23% ; Precision=55.00%
+16.95% = switch-indicator AP 	||	score_threhold=0.5 : F1=0.17 ; Recall=9.94% ; Precision=56.67%
+10.54% = switch-left AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.54% ; Precision=50.00%
+12.91% = switch-right AP 	||	score_threhold=0.5 : F1=0.00 ; Recall=0.00% ; Precision=0.00%
+17.28% = switch-static AP 	||	score_threhold=0.5 : F1=0.21 ; Recall=12.66% ; Precision=58.82%
+3.59% = switch-unknown AP 	||	score_threhold=0.5 : F1=0.01 ; Recall=0.50% ; Precision=33.33%
+35.26% = track-sign-front AP 	||	score_threhold=0.5 : F1=0.37 ; Recall=25.36% ; Precision=70.09%
+30.40% = track-signal-back AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=25.73% ; Precision=72.13%
+34.55% = track-signal-front AP 	||	score_threhold=0.5 : F1=0.40 ; Recall=27.54% ; Precision=74.72%
+52.66% = train-car AP 	||	score_threhold=0.5 : F1=0.58 ; Recall=44.72% ; Precision=83.72%
+mAP = 30.46%
+                                          
+
+

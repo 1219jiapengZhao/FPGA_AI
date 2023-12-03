@@ -1,0 +1,3 @@
+track-signal-front 702 434 715 470
+track-signal-back 702 411 714 425
+rail 656 582 1159 1079

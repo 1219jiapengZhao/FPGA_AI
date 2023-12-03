@@ -1,0 +1,17 @@
+rail 0.9538 836 572 1135 1074
+switch-static 0.0033 1341 890 1413 978
+switch-static 0.0015 1350 887 1400 949
+track-sign-front 0.0084 1031 499 1045 601
+track-sign-front 0.0071 1033 550 1047 604
+track-sign-front 0.0058 1038 570 1050 607
+track-sign-front 0.0031 1411 610 1435 677
+track-sign-front 0.0015 1308 387 1366 436
+track-sign-front 0.0012 1020 542 1047 595
+track-signal-front 0.8073 1316 190 1386 281
+track-signal-front 0.0111 1329 252 1387 307
+track-signal-front 0.0106 1328 225 1392 291
+track-signal-front 0.0054 1336 276 1390 311
+track-signal-front 0.0024 1319 190 1377 238
+track-signal-front 0.0016 1349 287 1386 319
+track-signal-back 0.0011 1323 312 1373 396
+pole 0.0049 1026 489 1045 605

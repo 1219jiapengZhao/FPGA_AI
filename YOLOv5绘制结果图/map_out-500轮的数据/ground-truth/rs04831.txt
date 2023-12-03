@@ -1,0 +1,10 @@
+switch-right 807 795 927 830
+track-sign-front 1591 620 1609 734
+track-sign-front 1451 650 1469 698
+track-signal-front 423 230 510 441
+track-signal-front 1564 334 1618 539
+pole 454 0 577 1079
+train-car 342 504 845 708
+rail 7 807 917 913
+rail 662 703 1194 1079
+rail 938 1026 1003 1079

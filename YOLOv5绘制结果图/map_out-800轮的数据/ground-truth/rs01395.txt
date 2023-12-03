@@ -1,0 +1,6 @@
+track-sign-front 1031 582 1045 623
+track-signal-front 866 543 877 555
+track-sign-front 868 580 874 589
+track-sign-front 834 566 840 574
+rail 174 584 869 1079
+rail 807 582 1188 1079

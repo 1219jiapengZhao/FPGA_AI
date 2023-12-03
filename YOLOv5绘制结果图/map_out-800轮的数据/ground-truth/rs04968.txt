@@ -1,0 +1,12 @@
+track-sign-front 578 460 597 483
+track-sign-front 806 516 816 608
+track-sign-front 703 522 714 531
+track-sign-front 337 531 355 554
+track-sign-front 337 553 356 587
+track-sign-front 540 515 568 532
+track-sign-front 806 483 816 517
+pole 605 506 614 697
+rail 555 634 1059 1077
+rail 654 641 1387 1077
+guard-rail 825 924 841 987
+guard-rail 1199 918 1256 982

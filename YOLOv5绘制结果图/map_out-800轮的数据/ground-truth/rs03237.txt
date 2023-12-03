@@ -1,0 +1,5 @@
+track-sign-front 983 564 989 571
+track-signal-front 964 551 967 554
+track-signal-back 947 543 951 551
+rail 222 572 941 1078
+rail 926 576 1189 1078

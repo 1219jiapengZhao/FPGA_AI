@@ -1,0 +1,8 @@
+crossing 694 755 1058 1079
+rail 667 427 1072 1076
+guard-rail 689 637 781 1078
+guard-rail 788 546 809 614
+guard-rail 812 511 822 535
+guard-rail 824 491 831 505
+guard-rail 899 631 1056 1077
+guard-rail 879 542 896 617

@@ -1,0 +1,68 @@
+INFO: [HLS 200-10] Running 'D:/xilinx/Vivado/2018.3/bin/unwrapped/win64.o/vivado_hls.exe'
+INFO: [HLS 200-10] For user '11589' on host 'desktop-608o1d3' (Windows NT_amd64 version 6.2) on Sun May 22 11:10:37 +0800 2022
+INFO: [HLS 200-10] In directory 'C:/Users/11589/Desktop/ZYNQ7020/High_Level_Synthesis_7020/6_ov5640_sobel'
+INFO: [HLS 200-10] Opening project 'C:/Users/11589/Desktop/ZYNQ7020/High_Level_Synthesis_7020/6_ov5640_sobel/ov5640_sobel_hls'.
+INFO: [HLS 200-10] Opening solution 'C:/Users/11589/Desktop/ZYNQ7020/High_Level_Synthesis_7020/6_ov5640_sobel/ov5640_sobel_hls/solution1'.
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 20ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020clg400-2'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+   Compiling ../../../src/ov5640_sobel_tb.cpp in debug mode
+   Compiling ../../../src/ov5640_sobel.cpp in debug mode
+   Generating csim.exe
+In file included from D:/xilinx/Vivado/2018.3/include/floating_point_v7_0_bitacc_cmodel.h:143:0,
+                 from D:/xilinx/Vivado/2018.3/include/hls_fpo.h:186,
+                 from D:/xilinx/Vivado/2018.3/include/hls_half.h:44,
+                 from D:/xilinx/Vivado/2018.3/include/etc/ap_private.h:90,
+                 from D:/xilinx/Vivado/2018.3/include/ap_common.h:641,
+                 from D:/xilinx/Vivado/2018.3/include/ap_int.h:54,
+                 from D:/xilinx/Vivado/2018.3/include/ap_axi_sdata.h:86,
+                 from D:/xilinx/Vivado/2018.3/include/hls/hls_axi_io.h:39,
+                 from D:/xilinx/Vivado/2018.3/include/hls_video.h:48,
+                 from ../../../src/ov5640_sobel.h:4,
+                 from ../../../src/ov5640_sobel_tb.cpp:1:
+D:/xilinx/Vivado/2018.3/include/gmp.h:62:0: warning: "__GMP_LIBGMP_DLL" redefined
+ #define __GMP_LIBGMP_DLL  0
+ 
+In file included from D:/xilinx/Vivado/2018.3/include/hls_fpo.h:186:0,
+                 from D:/xilinx/Vivado/2018.3/include/hls_half.h:44,
+                 from D:/xilinx/Vivado/2018.3/include/etc/ap_private.h:90,
+                 from D:/xilinx/Vivado/2018.3/include/ap_common.h:641,
+                 from D:/xilinx/Vivado/2018.3/include/ap_int.h:54,
+                 from D:/xilinx/Vivado/2018.3/include/ap_axi_sdata.h:86,
+                 from D:/xilinx/Vivado/2018.3/include/hls/hls_axi_io.h:39,
+                 from D:/xilinx/Vivado/2018.3/include/hls_video.h:48,
+                 from ../../../src/ov5640_sobel.h:4,
+                 from ../../../src/ov5640_sobel_tb.cpp:1:
+D:/xilinx/Vivado/2018.3/include/floating_point_v7_0_bitacc_cmodel.h:135:0: note: this is the location of the previous definition
+ #define __GMP_LIBGMP_DLL 1
+ 
+In file included from D:/xilinx/Vivado/2018.3/include/floating_point_v7_0_bitacc_cmodel.h:143:0,
+                 from D:/xilinx/Vivado/2018.3/include/hls_fpo.h:186,
+                 from D:/xilinx/Vivado/2018.3/include/hls_half.h:44,
+                 from D:/xilinx/Vivado/2018.3/include/etc/ap_private.h:90,
+                 from D:/xilinx/Vivado/2018.3/include/ap_common.h:641,
+                 from D:/xilinx/Vivado/2018.3/include/ap_int.h:54,
+                 from D:/xilinx/Vivado/2018.3/include/ap_axi_sdata.h:86,
+                 from D:/xilinx/Vivado/2018.3/include/hls/hls_axi_io.h:39,
+                 from D:/xilinx/Vivado/2018.3/include/hls_video.h:48,
+                 from ../../../src/ov5640_sobel.h:4,
+                 from ../../../src/ov5640_sobel.cpp:1:
+D:/xilinx/Vivado/2018.3/include/gmp.h:62:0: warning: "__GMP_LIBGMP_DLL" redefined
+ #define __GMP_LIBGMP_DLL  0
+ 
+In file included from D:/xilinx/Vivado/2018.3/include/hls_fpo.h:186:0,
+                 from D:/xilinx/Vivado/2018.3/include/hls_half.h:44,
+                 from D:/xilinx/Vivado/2018.3/include/etc/ap_private.h:90,
+                 from D:/xilinx/Vivado/2018.3/include/ap_common.h:641,
+                 from D:/xilinx/Vivado/2018.3/include/ap_int.h:54,
+                 from D:/xilinx/Vivado/2018.3/include/ap_axi_sdata.h:86,
+                 from D:/xilinx/Vivado/2018.3/include/hls/hls_axi_io.h:39,
+                 from D:/xilinx/Vivado/2018.3/include/hls_video.h:48,
+                 from ../../../src/ov5640_sobel.h:4,
+                 from ../../../src/ov5640_sobel.cpp:1:
+D:/xilinx/Vivado/2018.3/include/floating_point_v7_0_bitacc_cmodel.h:135:0: note: this is the location of the previous definition
+ #define __GMP_LIBGMP_DLL 1
+ 
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************

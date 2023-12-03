@@ -1,0 +1,13 @@
+switch-indicator 712 620 747 663
+switch-indicator 854 608 880 655
+switch-indicator 983 605 1016 657
+switch-indicator 1119 609 1149 655
+switch-indicator 800 576 827 616
+switch-unknown 565 725 684 749
+switch-left 1033 738 1173 814
+rail 561 661 1005 1079
+rail 650 638 895 1079
+rail 905 630 1678 1079
+rail 1028 665 1134 814
+rail 5 727 664 1079
+rail 3 809 424 1078

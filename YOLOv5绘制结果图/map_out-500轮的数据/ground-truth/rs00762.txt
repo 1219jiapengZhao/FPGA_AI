@@ -1,0 +1,16 @@
+switch-right 1011 666 1067 705
+track-sign-front 1098 595 1113 611
+track-sign-front 877 593 892 610
+track-sign-front 1004 587 1010 593
+track-sign-front 1033 585 1037 589
+track-sign-front 968 652 984 662
+track-sign-front 901 600 911 607
+track-sign-front 1072 586 1078 592
+track-sign-front 1069 586 1072 591
+rail 214 589 1056 1079
+rail 393 661 1056 1076
+rail 997 591 1238 1079
+guard-rail 918 719 966 753
+guard-rail 646 866 847 1044
+guard-rail 1074 720 1087 753
+guard-rail 299 857 579 1042

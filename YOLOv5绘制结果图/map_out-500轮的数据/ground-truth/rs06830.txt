@@ -1,0 +1,4 @@
+crossing 942 634 986 650
+track-sign-front 1183 588 1211 622
+track-sign-front 1025 560 1034 571
+rail 877 557 1148 1079

@@ -1,0 +1,4 @@
+track-signal-front 1260 537 1294 568
+platform 0 532 1112 999
+rail 249 606 996 1079
+rail 1070 540 1258 1079

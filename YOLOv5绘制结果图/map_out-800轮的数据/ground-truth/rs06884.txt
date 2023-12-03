@@ -1,0 +1,13 @@
+track-signal-front 980 470 1001 507
+track-signal-front 1002 471 1021 494
+switch-unknown 704 680 900 726
+track-signal-front 935 470 945 502
+track-sign-front 946 451 965 477
+track-sign-front 653 485 678 513
+track-sign-front 708 479 728 506
+pole 741 484 755 619
+rail 484 553 978 1079
+rail 6 717 885 1068
+rail 7 550 852 1079
+person 1295 508 1372 629
+person 204 510 266 687

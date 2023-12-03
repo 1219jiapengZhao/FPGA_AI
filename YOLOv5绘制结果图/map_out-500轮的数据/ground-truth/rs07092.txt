@@ -1,0 +1,6 @@
+track-signal-front 640 91 712 210
+track-signal-back 538 105 607 215
+crossing 804 616 923 675
+crossing 397 619 527 688
+rail 4 609 528 884
+rail 761 550 1107 1079

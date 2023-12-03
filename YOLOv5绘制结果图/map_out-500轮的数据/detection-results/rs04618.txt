@@ -1,0 +1,16 @@
+rail 0.9557 921 537 1191 1073
+track-sign-front 0.3236 431 672 517 833
+track-sign-front 0.1125 873 550 884 577
+track-sign-front 0.0468 873 552 886 594
+track-sign-front 0.0337 875 545 886 563
+track-sign-front 0.0113 980 541 994 575
+track-sign-front 0.0098 981 553 994 570
+track-sign-front 0.0062 974 553 988 571
+track-sign-front 0.0054 872 528 885 563
+track-sign-front 0.0051 982 509 993 543
+track-sign-front 0.0046 873 577 891 609
+track-sign-front 0.0028 971 506 996 542
+track-sign-front 0.0020 983 475 998 540
+track-sign-front 0.0012 1563 764 1582 802
+track-signal-back 0.7143 1 93 238 277
+track-signal-back 0.0022 -10 79 109 282

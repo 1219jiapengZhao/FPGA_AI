@@ -1,0 +1,8 @@
+switch-right 1036 788 1453 905
+rail-occluder 349 0 410 792
+rail-occluder 428 0 509 787
+rail-occluder 620 504 849 802
+rail 12 607 1825 797
+rail 919 591 1890 1079
+rail 1066 607 1901 1079
+guard-rail 1447 896 1696 1079

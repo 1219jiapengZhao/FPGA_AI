@@ -1,0 +1,6 @@
+switch-right 881 566 974 674
+switch-indicator 831 533 840 549
+track-sign-front 1003 431 1030 458
+track-signal-front 1276 361 1312 402
+rail 359 569 958 1079
+rail 878 480 1205 1079

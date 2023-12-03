@@ -1,0 +1,5 @@
+track-sign-front 242 492 321 595
+track-sign-front 339 490 388 555
+pole 337 555 352 624
+rail 14 485 1705 1079
+rail 10 503 886 1079

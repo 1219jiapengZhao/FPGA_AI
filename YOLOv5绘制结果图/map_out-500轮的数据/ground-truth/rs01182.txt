@@ -1,0 +1,9 @@
+crossing 745 681 963 777
+track-signal-back 261 287 289 343
+track-signal-back 263 367 294 412
+track-signal-back 221 321 243 365
+track-signal-back 219 378 243 429
+pole 604 259 635 633
+pole 674 237 737 609
+rail 6 524 743 885
+rail 626 524 1002 1079

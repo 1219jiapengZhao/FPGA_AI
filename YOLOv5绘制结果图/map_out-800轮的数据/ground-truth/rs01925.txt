@@ -1,0 +1,6 @@
+track-sign-front 1631 745 1741 1051
+track-sign-front 1391 642 1409 701
+track-sign-front 1607 629 1619 663
+rail-occluder 1391 638 1412 708
+rail 319 682 1389 1078
+rail 937 639 1840 1079

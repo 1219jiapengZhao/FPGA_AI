@@ -1,0 +1,13 @@
+switch-right 836 657 882 678
+switch-static 818 665 838 676
+switch-indicator 844 624 854 638
+switch-indicator 859 614 868 625
+pole 754 407 793 684
+rail-occluder 752 619 763 641
+rail 405 662 885 1079
+rail 730 612 1339 1079
+rail 730 615 1131 1079
+guard-rail 893 908 904 1079
+guard-rail 1203 906 1324 1079
+guard-rail 924 737 950 775
+guard-rail 767 737 804 777

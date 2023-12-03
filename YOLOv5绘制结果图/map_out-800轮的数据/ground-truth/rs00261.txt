@@ -1,0 +1,6 @@
+rail 8 559 869 1079
+rail 724 560 1021 1079
+guard-rail 105 620 776 1079
+guard-rail 7 617 775 1028
+guard-rail 779 620 890 1079
+guard-rail 892 620 964 1079

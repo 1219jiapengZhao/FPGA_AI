@@ -1,0 +1,13 @@
+switch-unknown 629 614 695 636
+switch-static 407 694 459 724
+switch-unknown 601 580 634 596
+switch-left 446 938 763 1079
+track-sign-front 1052 516 1073 547
+track-sign-front 747 577 762 597
+track-sign-front 682 577 694 591
+switch-static 271 987 390 1043
+rail 448 568 748 1079
+rail 483 612 757 1079
+rail 567 568 1591 1079
+rail 605 566 654 597
+rail 812 571 1919 1079

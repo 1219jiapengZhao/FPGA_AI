@@ -1,0 +1,6 @@
+switch-static 404 749 492 810
+track-signal-front 901 547 912 574
+train-car 1148 565 1393 674
+rail 1323 686 1919 861
+rail 8 613 846 1079
+rail 657 612 971 1079

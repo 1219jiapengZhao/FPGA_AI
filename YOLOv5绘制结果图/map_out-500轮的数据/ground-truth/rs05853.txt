@@ -1,0 +1,11 @@
+track-sign-front 947 692 971 716
+track-signal-front 1092 560 1099 581
+track-signal-back 1080 573 1084 585
+track-signal-front 955 545 966 569
+track-signal-front 1068 588 1072 595
+train-car 36 436 1008 1079
+pole 1029 588 1037 635
+platform 1085 612 1388 687
+rail 1356 673 1919 890
+rail 1003 606 1071 638
+rail 1001 605 1249 1077

@@ -1,0 +1,7 @@
+crossing 903 609 1042 715
+track-signal-front 601 564 682 638
+track-signal-back 1157 508 1193 551
+switch-indicator 900 488 907 504
+track-signal-front 1169 400 1182 423
+track-signal-back 629 392 653 418
+rail 833 441 1133 1079

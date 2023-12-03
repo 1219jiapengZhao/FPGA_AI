@@ -1,0 +1,6 @@
+crossing 927 540 972 585
+track-signal-front 1170 213 1265 352
+train-car 900 482 937 501
+train-car 835 483 868 497
+platform 861 492 930 510
+rail 831 511 1114 1079

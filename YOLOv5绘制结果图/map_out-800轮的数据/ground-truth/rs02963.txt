@@ -1,0 +1,7 @@
+track-signal-front 1070 500 1087 534
+platform 331 540 988 1079
+rail 765 573 1165 1079
+person 875 461 918 593
+person 839 463 877 557
+person-group 700 496 872 716
+person-group 466 502 665 720

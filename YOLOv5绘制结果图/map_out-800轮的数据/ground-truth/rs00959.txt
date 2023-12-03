@@ -1,0 +1,9 @@
+switch-left 958 656 1009 687
+track-signal-back 849 563 864 588
+track-signal-back 930 576 942 596
+pole 934 595 938 652
+rail 966 660 1722 1079
+rail 635 621 917 1079
+rail 771 629 1062 1079
+guard-rail 1003 756 1005 807
+guard-rail 810 735 852 808

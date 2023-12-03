@@ -1,0 +1,13 @@
+switch-indicator 782 650 856 702
+switch-static 925 489 944 501
+switch-right 964 482 994 504
+switch-left 896 610 1051 721
+track-sign-front 1386 458 1410 498
+track-signal-front 1334 277 1369 331
+track-signal-front 1077 283 1107 332
+switch-indicator 1073 552 1102 589
+pole 1087 334 1092 540
+rail 1010 465 1919 1078
+rail 929 467 990 500
+rail 757 461 1112 1078
+rail 851 462 1204 1079

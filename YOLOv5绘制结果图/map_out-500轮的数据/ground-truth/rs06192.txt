@@ -1,0 +1,4 @@
+track-signal-front 1242 655 1259 694
+train-car 0 466 815 1079
+rail 812 525 867 593
+rail 806 506 1017 1079

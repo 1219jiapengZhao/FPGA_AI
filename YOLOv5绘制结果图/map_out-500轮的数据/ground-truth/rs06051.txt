@@ -1,0 +1,4 @@
+track-signal-front 66 443 104 479
+rail 7 738 994 1079
+rail 2 880 127 1078
+person 92 561 150 713

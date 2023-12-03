@@ -1,0 +1,3 @@
+track-signal-back 573 332 634 440
+switch-static 735 801 758 824
+rail 649 560 931 1079

@@ -1,0 +1,15 @@
+track-signal-back 718 575 734 609
+track-signal-back 783 574 799 609
+track-signal-back 841 574 856 613
+track-signal-front 821 616 826 628
+switch-unknown 694 683 739 702
+switch-unknown 1110 736 1209 788
+rail 952 669 1284 727
+rail 875 673 1913 1079
+rail 580 678 718 725
+rail 691 655 1060 1079
+rail 804 660 1098 1079
+rail 980 680 1407 941
+rail 879 665 1919 1079
+guard-rail 856 717 928 836
+guard-rail 729 754 786 951

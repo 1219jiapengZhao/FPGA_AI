@@ -1,0 +1,8 @@
+track-sign-front 1077 169 1112 200
+switch-indicator 582 900 623 978
+switch-indicator 1275 905 1318 984
+switch-indicator 1884 887 1919 956
+crossing 761 829 1089 1009
+crossing 1342 818 1813 996
+rail 1045 503 1913 1075
+rail 714 501 1142 1077

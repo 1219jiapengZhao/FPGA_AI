@@ -1,0 +1,17 @@
+track-signal-front 902 515 937 621
+track-sign-front 906 624 938 679
+track-signal-front 1446 503 1483 615
+track-sign-front 1444 616 1472 674
+track-sign-front 1464 615 1482 646
+track-sign-front 905 622 923 648
+track-sign-front 794 706 880 803
+track-sign-front 1475 663 1505 744
+track-sign-front 1611 693 1703 783
+switch-static 990 789 1028 806
+switch-indicator 982 753 995 779
+switch-indicator 1311 754 1324 781
+switch-static 1325 782 1357 800
+track-sign-front 1722 696 1764 748
+rail 912 781 1198 1079
+rail 1152 783 1919 1079
+person 275 487 338 607

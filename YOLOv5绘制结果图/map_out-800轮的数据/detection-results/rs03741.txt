@@ -1,0 +1,12 @@
+guard-rail 0.5489 1198 556 1338 1083
+guard-rail 0.0183 1234 695 1327 1080
+rail 0.8957 1161 566 1371 1075
+switch-indicator 0.0018 815 619 862 694
+switch-indicator 0.0014 794 620 869 713
+track-sign-front 0.0012 749 634 802 706
+track-sign-front 0.0012 1237 560 1250 585
+track-signal-front 0.2001 1185 380 1211 415
+track-signal-front 0.0348 1182 368 1215 424
+track-signal-front 0.0037 1188 336 1222 422
+track-signal-front 0.0024 1177 335 1210 422
+track-signal-front 0.0022 1183 388 1209 440

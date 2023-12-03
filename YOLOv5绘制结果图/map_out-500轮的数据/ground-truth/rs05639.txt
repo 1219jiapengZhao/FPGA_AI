@@ -1,0 +1,4 @@
+track-sign-front 1383 523 1423 577
+switch-unknown 994 522 1021 537
+rail 0 518 1013 1079
+rail 1021 508 1336 1079

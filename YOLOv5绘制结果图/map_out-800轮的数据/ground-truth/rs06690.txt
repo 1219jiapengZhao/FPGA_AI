@@ -1,0 +1,8 @@
+switch-unknown 761 536 800 549
+switch-static 575 587 606 601
+rail-occluder 697 540 701 559
+rail 1 501 871 860
+rail 727 505 817 564
+rail 28 499 910 1077
+rail 1 499 774 746
+rail 894 501 1189 1078

@@ -1,0 +1,8 @@
+switch-indicator 983 576 995 590
+crossing 1087 563 1103 566
+switch-unknown 1082 567 1107 575
+track-sign-front 905 559 922 574
+pole 912 572 914 612
+rail 8 593 971 889
+rail 899 566 1103 626
+rail 896 550 1215 1079

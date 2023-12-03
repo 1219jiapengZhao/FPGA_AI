@@ -1,0 +1,13 @@
+track-signal-front 1238 420 1327 543
+track-signal-front 1259 355 1298 394
+track-sign-front 945 572 964 598
+track-sign-front 1247 606 1289 651
+crossing 314 756 650 856
+crossing 853 786 1093 890
+pole 638 1 734 887
+train-car 636 457 939 698
+platform 1097 642 1314 696
+rail 737 632 1108 1079
+rail 6 709 783 1078
+person 462 550 483 605
+person 1178 578 1224 658

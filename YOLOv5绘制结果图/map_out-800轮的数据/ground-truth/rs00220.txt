@@ -1,0 +1,7 @@
+switch-indicator 1188 487 1234 542
+switch-right 1245 528 1331 570
+switch-indicator 1364 515 1387 540
+rail 517 529 1323 1079
+rail 1050 448 1441 1079
+guard-rail 1348 688 1393 1026
+guard-rail 850 689 1097 864

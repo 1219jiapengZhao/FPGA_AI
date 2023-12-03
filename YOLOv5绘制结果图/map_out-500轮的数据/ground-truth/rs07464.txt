@@ -1,0 +1,4 @@
+track-signal-back 578 457 599 489
+track-signal-back 968 450 988 482
+rail 7 537 824 857
+rail 664 540 1016 1079

@@ -1,0 +1,17 @@
+track-signal-front 588 192 643 274
+track-signal-front 601 287 632 317
+track-signal-front 587 75 640 156
+track-sign-front 611 453 633 585
+track-sign-front 615 369 628 395
+switch-static 668 611 772 649
+switch-static 1376 682 1451 708
+track-sign-front 1522 490 1557 617
+track-signal-front 1555 318 1579 345
+track-signal-front 1554 224 1601 306
+track-signal-front 1565 123 1614 208
+switch-static 947 691 1055 725
+track-signal-back 802 380 806 388
+track-signal-front 849 390 853 399
+rail-occluder 1077 567 1117 702
+rail 853 419 1919 1077
+rail 683 417 1065 1079

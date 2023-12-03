@@ -1,0 +1,15 @@
+track-signal-back 813 457 829 486
+track-signal-back 815 489 831 512
+track-signal-back 1018 485 1031 503
+track-signal-back 1018 506 1030 521
+switch-static 1152 660 1196 692
+track-signal-back 1093 487 1104 502
+track-signal-back 1093 504 1103 517
+pole 850 239 880 687
+train-car 1146 271 1919 884
+rail-occluder 1204 649 1224 740
+rail 1 605 671 824
+rail 1038 558 1919 1049
+rail 7 604 879 1079
+rail 474 605 672 661
+rail 894 550 1212 1079

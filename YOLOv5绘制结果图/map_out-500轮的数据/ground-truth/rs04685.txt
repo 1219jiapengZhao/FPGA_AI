@@ -1,0 +1,9 @@
+track-signal-front 512 375 569 440
+track-signal-front 1132 369 1197 435
+track-signal-front 1144 436 1189 477
+track-sign-front 1079 550 1108 594
+pole 539 440 561 705
+rail-occluder 504 699 556 772
+rail 8 571 894 939
+rail 180 572 907 1079
+rail 885 572 1141 1079

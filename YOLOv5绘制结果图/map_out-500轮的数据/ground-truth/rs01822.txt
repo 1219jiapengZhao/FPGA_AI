@@ -1,0 +1,4 @@
+crossing 904 714 1102 919
+track-sign-front 1361 848 1454 981
+rail 913 587 1137 1077
+person-group 1057 537 1222 700

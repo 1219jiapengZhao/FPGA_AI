@@ -1,0 +1,17 @@
+crossing 932 607 1034 646
+switch-right 960 497 1003 522
+crossing 590 597 757 635
+switch-unknown 848 488 903 507
+switch-unknown 977 452 991 460
+track-sign-front 737 523 775 545
+track-signal-front 688 158 766 291
+track-signal-front 1165 156 1242 286
+crossing 938 559 1032 598
+crossing 662 556 803 589
+track-sign-front 901 448 916 463
+track-sign-front 1060 458 1076 473
+pole 732 268 782 706
+rail 857 454 973 498
+rail 0 437 963 1078
+rail 937 450 1001 514
+rail 827 452 1137 1079

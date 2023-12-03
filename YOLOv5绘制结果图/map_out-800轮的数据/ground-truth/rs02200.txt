@@ -1,0 +1,9 @@
+switch-left 758 600 899 640
+switch-right 968 488 1010 506
+switch-indicator 687 542 799 618
+switch-static 951 486 978 495
+switch-static 726 584 804 619
+rail 63 603 863 1079
+rail 10 437 1064 1079
+rail 827 440 1163 1079
+guard-rail 1000 543 1006 571

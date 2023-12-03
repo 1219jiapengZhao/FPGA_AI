@@ -1,0 +1,6 @@
+track-sign-front 938 686 980 737
+track-signal-front 1366 496 1384 523
+track-sign-front 1358 612 1380 647
+rail 1074 585 1367 1079
+guard-rail 1234 702 1250 744
+person 748 802 792 931

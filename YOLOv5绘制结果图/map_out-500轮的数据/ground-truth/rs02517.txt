@@ -1,0 +1,8 @@
+track-sign-front 992 552 1030 587
+track-signal-front 456 208 541 291
+track-sign-front 1154 121 1209 176
+platform 976 724 1919 889
+platform 1 734 889 1079
+rail 817 743 1146 1079
+rail 1105 739 1919 1065
+person 227 608 297 770

@@ -1,0 +1,4 @@
+track-sign-front 358 388 433 457
+track-sign-front 759 350 769 365
+rail 793 379 1919 1079
+rail 674 379 1030 1079

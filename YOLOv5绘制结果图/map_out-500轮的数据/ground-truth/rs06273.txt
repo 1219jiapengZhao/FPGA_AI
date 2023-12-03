@@ -1,0 +1,10 @@
+switch-left 660 447 724 473
+track-sign-front 295 321 305 357
+track-sign-front 1109 371 1123 393
+track-sign-front 566 386 579 406
+rail 747 405 1919 729
+rail 666 402 1919 1075
+rail 667 453 1798 1078
+rail 577 404 961 1079
+guard-rail 658 524 661 556
+guard-rail 786 522 833 549

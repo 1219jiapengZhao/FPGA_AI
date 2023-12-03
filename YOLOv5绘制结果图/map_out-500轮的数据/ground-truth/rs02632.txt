@@ -1,0 +1,6 @@
+crossing 625 635 839 715
+crossing 1030 638 1169 699
+track-sign-front 6 508 29 669
+track-sign-front 1488 507 1503 634
+rail 10 494 1035 1077
+rail 1015 503 1359 1079

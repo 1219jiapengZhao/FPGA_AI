@@ -1,0 +1,11 @@
+switch-left 911 727 1035 860
+track-sign-front 1252 590 1288 632
+track-signal-front 1234 517 1278 588
+track-sign-front 1278 550 1294 568
+switch-static 1117 814 1230 866
+train-car 1048 554 1102 624
+rail 9 622 957 1079
+rail 775 602 1016 1079
+rail 923 621 1149 1079
+guard-rail 958 717 963 730
+guard-rail 1044 722 1060 737

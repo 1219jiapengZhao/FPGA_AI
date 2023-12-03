@@ -1,0 +1,9 @@
+switch-right 958 677 1019 698
+track-signal-back 1072 559 1094 580
+track-signal-back 1096 574 1118 599
+switch-right 977 648 1019 667
+rail 777 602 1016 1079
+rail 8 640 922 1049
+rail 9 679 1008 1078
+rail 933 641 1010 657
+guard-rail 902 714 927 724

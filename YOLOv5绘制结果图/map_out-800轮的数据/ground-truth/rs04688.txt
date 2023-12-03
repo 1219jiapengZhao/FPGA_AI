@@ -1,0 +1,11 @@
+track-sign-front 1072 402 1106 437
+track-sign-front 998 367 1011 381
+switch-indicator 973 361 982 368
+platform 1 358 948 1079
+platform 0 356 904 667
+rail-occluder 393 340 700 675
+pole 810 329 818 456
+pole 866 341 872 413
+pole 886 314 892 397
+rail 803 359 1137 1079
+rail 6 358 920 823

@@ -1,0 +1,11 @@
+crossing 179 814 520 962
+crossing 633 812 902 975
+crossing 0 797 137 882
+track-signal-front 1215 395 1259 551
+track-signal-front 1406 319 1500 416
+track-signal-back 1294 327 1378 415
+train-car 431 441 775 750
+rail-occluder 277 734 299 796
+rail 3 680 434 850
+rail 4 725 600 1078
+rail 648 560 924 1075

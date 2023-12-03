@@ -1,0 +1,11 @@
+track-signal-front 895 539 902 546
+track-sign-front 898 563 901 576
+track-signal-front 816 526 821 542
+train-car 0 433 505 556
+rail-occluder 186 516 342 571
+pole 811 525 822 591
+pole 167 238 232 560
+rail-occluder 523 549 550 562
+rail 5 536 546 558
+rail 89 566 850 1079
+rail 836 571 1116 1079

@@ -1,0 +1,5 @@
+track-sign-front 1018 477 1042 500
+platform 1 545 998 1079
+rail 754 480 1133 1079
+person 918 443 942 550
+person 868 449 898 547

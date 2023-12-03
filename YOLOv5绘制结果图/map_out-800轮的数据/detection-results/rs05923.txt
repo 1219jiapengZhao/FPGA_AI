@@ -1,0 +1,16 @@
+crossing 0.0206 1008 603 1070 626
+rail 0.9585 864 530 1178 1077
+track-sign-front 0.0840 970 494 985 513
+track-sign-front 0.0583 966 497 983 519
+track-sign-front 0.0266 933 501 952 522
+track-sign-front 0.0076 993 494 1008 514
+track-sign-front 0.0047 1149 501 1164 527
+track-sign-front 0.0038 960 494 990 520
+track-sign-front 0.0037 928 497 959 526
+track-sign-front 0.0030 925 501 948 531
+track-sign-front 0.0029 1057 494 1083 518
+track-sign-front 0.0018 979 484 1005 512
+track-sign-front 0.0013 1068 488 1108 534
+track-sign-front 0.0012 1046 500 1069 519
+track-sign-front 0.0010 966 489 1009 545
+pole 0.0021 786 224 824 621

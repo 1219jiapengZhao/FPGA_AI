@@ -1,0 +1,17 @@
+train-car 0.8864 361 323 498 503
+train-car 0.0023 251 280 607 533
+platform 0.0023 518 421 882 605
+rail 0.9432 390 422 769 1078
+rail 0.8914 0 480 461 1035
+track-sign-front 0.0051 253 149 276 176
+track-sign-front 0.0035 526 366 541 397
+track-sign-front 0.0015 646 335 661 383
+track-sign-front 0.0012 582 346 596 384
+track-signal-front 0.0081 630 91 675 195
+track-signal-front 0.0067 332 288 352 309
+track-signal-front 0.0030 321 286 349 309
+track-signal-front 0.0020 331 277 353 319
+track-signal-front 0.0019 826 309 852 355
+track-signal-front 0.0016 252 146 278 181
+track-signal-front 0.0015 234 290 258 313
+track-signal-front 0.0013 642 91 702 199

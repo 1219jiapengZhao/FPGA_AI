@@ -1,0 +1,5 @@
+track-sign-front 459 655 486 673
+track-signal-back 861 621 867 637
+train-car 876 638 894 653
+rail 140 664 862 1078
+rail 706 663 981 1078

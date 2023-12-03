@@ -1,0 +1,4 @@
+track-sign-front 1269 584 1283 608
+rail 766 652 1277 1078
+guard-rail 830 803 962 1079
+guard-rail 927 803 977 1078

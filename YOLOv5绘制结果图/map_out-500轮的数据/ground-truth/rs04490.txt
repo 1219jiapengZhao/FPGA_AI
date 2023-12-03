@@ -1,0 +1,13 @@
+track-signal-front 361 391 406 494
+track-signal-front 353 495 390 524
+track-signal-front 821 434 847 485
+track-signal-front 948 553 956 571
+track-sign-front 781 650 814 700
+pole 322 632 348 804
+fence 370 493 396 776
+pole 818 483 839 694
+pole 794 677 798 743
+rail-occluder 784 652 810 699
+rail 8 606 854 837
+rail 8 577 909 1078
+rail 834 574 1086 1079

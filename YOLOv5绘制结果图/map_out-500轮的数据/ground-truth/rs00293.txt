@@ -1,0 +1,9 @@
+track-signal-front 1237 277 1271 369
+track-signal-front 1390 275 1422 370
+track-signal-back 1134 402 1145 441
+track-signal-back 1169 404 1180 440
+train-car 1320 290 1919 1079
+rail 10 492 1115 895
+rail 46 494 1157 1079
+rail 1221 495 1323 593
+rail 970 492 1313 1079

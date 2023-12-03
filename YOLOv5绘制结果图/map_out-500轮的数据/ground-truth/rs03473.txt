@@ -1,0 +1,7 @@
+track-signal-front 807 377 827 419
+track-signal-front 777 363 793 416
+track-signal-front 873 499 887 535
+track-signal-front 857 488 875 534
+rail 6 636 724 1077
+rail 724 630 1013 1079
+person 835 549 861 609

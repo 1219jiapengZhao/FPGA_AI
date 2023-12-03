@@ -1,0 +1,14 @@
+track-sign-front 597 523 688 611
+track-signal-front 1066 260 1083 313
+track-signal-front 1125 263 1143 316
+track-signal-front 1285 441 1308 491
+track-sign-front 1282 407 1310 432
+track-signal-front 802 430 819 477
+track-sign-front 1138 18 1182 63
+car 1296 575 1707 895
+rail-occluder 600 526 734 685
+pole 629 9 746 757
+rail 5 523 770 1079
+rail 759 565 1155 1079
+rail 1382 622 1881 1079
+person 406 516 465 638

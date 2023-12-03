@@ -1,0 +1,4 @@
+crossing 806 837 1208 1079
+track-signal-back 534 532 545 549
+rail 542 566 1220 1079
+person 1821 631 1913 902

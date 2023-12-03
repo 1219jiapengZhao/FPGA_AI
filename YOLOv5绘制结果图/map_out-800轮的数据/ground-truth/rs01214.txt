@@ -1,0 +1,7 @@
+switch-right 910 663 951 688
+track-signal-front 896 594 902 610
+track-sign-front 947 592 954 610
+rail 749 626 1029 1079
+rail 74 639 905 1079
+rail 308 669 950 1078
+guard-rail 955 728 960 760

@@ -1,0 +1,7 @@
+track-sign-front 503 566 539 616
+track-sign-front 702 566 721 589
+track-sign-front 804 558 813 578
+train-car 832 403 1331 885
+rail 1334 707 1530 763
+rail 566 599 849 1077
+rail 1331 760 1355 770

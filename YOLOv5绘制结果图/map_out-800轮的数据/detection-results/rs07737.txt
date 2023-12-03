@@ -1,0 +1,15 @@
+rail 0.9710 53 541 846 1076
+rail 0.9420 860 552 1154 1077
+switch-indicator 0.0038 629 645 647 671
+track-sign-front 0.0870 1021 571 1038 591
+track-sign-front 0.0139 1028 569 1048 596
+track-sign-front 0.0054 1012 569 1042 596
+track-sign-front 0.0052 617 545 632 566
+track-sign-front 0.0046 1038 562 1056 597
+track-sign-front 0.0035 784 498 805 551
+track-sign-front 0.0033 1017 552 1035 594
+track-sign-front 0.0017 1033 526 1055 610
+track-sign-front 0.0010 841 516 864 559
+track-signal-front 0.0169 851 521 861 537
+track-signal-front 0.0058 851 511 863 536
+pole 0.0014 784 466 806 559

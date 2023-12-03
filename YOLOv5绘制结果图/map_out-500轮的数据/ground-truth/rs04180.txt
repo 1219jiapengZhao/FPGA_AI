@@ -1,0 +1,12 @@
+track-signal-front 580 125 666 274
+track-sign-front 603 437 636 485
+switch-right 922 634 1113 696
+switch-static 767 628 876 694
+switch-indicator 1126 423 1136 436
+switch-unknown 1154 435 1206 448
+rail 1148 392 1916 1079
+rail 959 394 1161 682
+rail 683 441 1201 1076
+guard-rail 1229 472 1241 483
+guard-rail 1124 464 1145 481
+guard-rail 1043 479 1051 495

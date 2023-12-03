@@ -1,0 +1,9 @@
+switch-left 614 618 763 651
+switch-right 949 530 997 553
+switch-static 447 644 538 674
+rail 617 537 990 650
+rail 8 506 922 1079
+rail 957 495 1350 1079
+guard-rail 0 925 47 945
+guard-rail 45 1045 98 1079
+guard-rail 95 859 163 894

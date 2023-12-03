@@ -1,0 +1,5 @@
+switch-indicator 778 648 812 698
+switch-static 787 712 855 735
+switch-right 871 712 1012 798
+rail 785 541 1150 1078
+rail 867 719 1073 1078

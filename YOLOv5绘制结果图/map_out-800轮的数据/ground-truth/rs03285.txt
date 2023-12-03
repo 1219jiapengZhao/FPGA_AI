@@ -1,0 +1,9 @@
+switch-unknown 982 511 1001 520
+track-sign-front 639 491 658 514
+switch-static 972 509 979 512
+track-signal-back 1005 447 1012 464
+track-sign-front 447 460 472 516
+rail 104 487 997 1079
+rail 983 510 1298 1079
+guard-rail 1033 625 1037 906
+guard-rail 1088 618 1215 901

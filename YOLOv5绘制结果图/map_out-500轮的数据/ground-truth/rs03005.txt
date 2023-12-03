@@ -1,0 +1,16 @@
+switch-left 943 499 996 560
+crossing 1 646 669 1079
+crossing 850 640 1127 1078
+switch-right 734 510 858 568
+track-sign-front 849 464 871 485
+track-sign-front 1074 474 1097 495
+track-sign-front 494 534 513 546
+switch-static 669 556 710 582
+switch-unknown 954 461 976 473
+pole 858 486 864 570
+platform 1 306 190 1079
+rail 731 450 1019 568
+rail 5 449 942 1078
+rail 915 463 991 550
+rail 835 463 1139 1079
+person 1607 613 1716 783

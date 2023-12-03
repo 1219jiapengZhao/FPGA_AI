@@ -1,0 +1,8 @@
+switch-static 1088 971 1126 1025
+switch-static 528 971 584 1018
+track-signal-back 866 500 878 528
+track-signal-back 863 534 880 551
+track-signal-front 1305 373 1423 503
+track-signal-front 1 373 90 498
+rail 164 589 1059 1079
+rail 851 595 1102 1079
